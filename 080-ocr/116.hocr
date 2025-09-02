@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/116.tiff"; bbox 0 0 5008 6262; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 883 385 4991 2831">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 892 385 4991 1201">
+     <span class='ocr_line' id='line_1_1' title="bbox 892 385 4991 617; baseline 0 -53; x_size 231; x_descenders 53; x_ascenders 57">
+      <span class='ocrx_word' id='word_1_1' title='bbox 892 385 1695 617; x_wconf 94'>Chapter</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1798 443 1897 615; x_wconf 44'>9</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 922 878 2062 1201; baseline 0.002 -4; x_size 410.44693; x_descenders 94.44693; x_ascenders 101.50838">
+      <span class='ocrx_word' id='word_1_3' title='bbox 922 878 2062 1201; x_wconf 96'>HOW</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 889 1283 1471 1606">
+     <span class='ocr_line' id='line_1_3' title="bbox 889 1283 1471 1606; baseline 0.012 -7; x_size 419.53912; x_descenders 96.539108; x_ascenders 103.75698">
+      <span class='ocrx_word' id='word_1_4' title='bbox 889 1283 1471 1606; x_wconf 93'>TO</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 916 1692 2887 2016">
+     <span class='ocr_line' id='line_1_4' title="bbox 916 1692 2887 2016; baseline 0.005 -12; x_size 407.84918; x_descenders 93.849167; x_ascenders 100.86592">
+      <span class='ocrx_word' id='word_1_5' title='bbox 916 1692 2887 2016; x_wconf 94'>FINANCE</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 883 2098 1736 2413">
+     <span class='ocr_line' id='line_1_5' title="bbox 883 2098 1736 2413; baseline 0.004 -3; x_size 406.55029; x_descenders 93.550278; x_ascenders 100.54469">
+      <span class='ocrx_word' id='word_1_6' title='bbox 883 2098 1736 2413; x_wconf 95'>THE</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 913 2503 4977 2895">
+     <span class='ocr_line' id='line_1_6' title="bbox 913 2503 4977 2831; baseline 0.005 -17; x_size 405.2514; x_descenders 93.251404; x_ascenders 100.22346">
+      <span class='ocrx_word' id='word_1_7' title='bbox 913 2503 3877 2831; x_wconf 96'>PREPARATION</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

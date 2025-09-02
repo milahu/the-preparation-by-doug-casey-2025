@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/215.tiff"; bbox 0 0 4977 6237; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 457 1989 4606 5991">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 457 1989 4606 5991">
+     <span class='ocr_line' id='line_1_1' title="bbox 457 1989 4055 2128; baseline 0.007 -34; x_size 90; x_descenders 18; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_1' title='bbox 457 2021 1671 2115; x_wconf 90'>Reflection/Accountability:</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1710 2025 1751 2093; x_wconf 96'>5</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 1791 2021 2031 2093; x_wconf 96'>hours</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 2065 2043 2107 2093; x_wconf 96'>a</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 2141 2020 2366 2093; x_wconf 96'>week</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 2876 1991 3299 2128; x_wconf 93'>Reflection:</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 3517 1989 3788 2128; x_wconf 54'>60</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 3838 1989 4055 2126; x_wconf 66'>hours</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 4551 5425 4606 5489; baseline 0 0; x_size 78.380692; x_descenders 14.380688; x_ascenders 13.370474">
+      <span class='ocrx_word' id='word_1_9' title='bbox 4551 5425 4606 5489; x_wconf 35'>vt</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 4546 5494 4605 5576; baseline 0 -33; x_size 55.11142; x_descenders 10.111422; x_ascenders 9.4011145">
+      <span class='ocrx_word' id='word_1_10' title='bbox 4546 5494 4605 5576; x_wconf 0'>I.</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 4551 5576 4603 5611; baseline 0 -3; x_size 39.190346; x_descenders 7.1903439; x_ascenders 6.6852369">
+      <span class='ocrx_word' id='word_1_11' title='bbox 4551 5576 4603 5611; x_wconf 48'>pr</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 4550 5617 4605 5655; baseline 0 0; x_size 46.538536; x_descenders 8.5385342; x_ascenders 7.9387188">
+      <span class='ocrx_word' id='word_1_12' title='bbox 4550 5617 4605 5655; x_wconf 49'>LA</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 4550 5722 4603 5804; baseline 0 0; x_size 131.89999; x_descenders 24.200001; x_ascenders 22.5">
+      <span class='ocrx_word' id='word_1_13' title='bbox 4550 5722 4603 5804; x_wconf 74'>=</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 4457 5928 4597 5991; baseline 0.007 -1; x_size 75.93129; x_descenders 13.931293; x_ascenders 12.952646">
+      <span class='ocrx_word' id='word_1_14' title='bbox 4457 5928 4597 5991; x_wconf 96'>215</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

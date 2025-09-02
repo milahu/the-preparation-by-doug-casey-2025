@@ -1,0 +1,1 @@
+gimp 010-scan-cover/*

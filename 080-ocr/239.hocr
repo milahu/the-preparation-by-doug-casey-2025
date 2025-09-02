@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/239.tiff"; bbox 0 0 4983 6242; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 4465 5508 4613 6002">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 4465 5508 4613 6002">
+     <span class='ocr_line' id='line_1_1' title="bbox 4558 5508 4613 5581; baseline 0 0; x_size 89.54705; x_descenders 16.547052; x_ascenders 24.333334">
+      <span class='ocrx_word' id='word_1_1' title='bbox 4558 5508 4613 5581; x_wconf 80'>O</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 4559 5586 4611 5621; baseline 0 -2; x_size 40.480175; x_descenders 7.4801745; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_2' title='bbox 4559 5586 4611 5621; x_wconf 40'>pe</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 4557 5627 4613 5665; baseline 0 0; x_size 46.613533; x_descenders 8.613534; x_ascenders 12.666667">
+      <span class='ocrx_word' id='word_1_3' title='bbox 4557 5627 4613 5665; x_wconf 66'>LJ</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 4559 5692 4612 5771; baseline 0 0; x_size 96.907082; x_descenders 17.907084; x_ascenders 26.333334">
+      <span class='ocrx_word' id='word_1_4' title='bbox 4559 5692 4612 5771; x_wconf 82'>T</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 4465 5939 4607 6002; baseline 0.007 -1; x_size 77.280334; x_descenders 14.280334; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_5' title='bbox 4465 5939 4607 6002; x_wconf 96'>239</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

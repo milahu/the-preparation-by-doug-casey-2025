@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/256.tiff"; bbox 0 0 5025 6276; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 123 477 4361 3941">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 123 477 4361 3941">
+     <span class='ocr_line' id='line_1_1' title="bbox 891 477 2029 709; baseline 0.002 -53; x_size 230; x_descenders 52; x_ascenders 53">
+      <span class='ocrx_word' id='word_1_1' title='bbox 891 477 2029 709; x_wconf 96'>Chapter</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1790 473 2032 714; x_wconf 96'>19</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 925 969 3536 1307; baseline 0.009 -23; x_size 417.73465; x_descenders 94.734642; x_ascenders 96.539108">
+      <span class='ocrx_word' id='word_1_3' title='bbox 925 969 3536 1307; x_wconf 96'>RESOURCES</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 895 1541 3574 1929; baseline 0.009 -72; x_size 406.09497; x_descenders 92.094971; x_ascenders 93.849167">
+      <span class='ocrx_word' id='word_1_4' title='bbox 895 1541 3574 1929; x_wconf 95'>ACADEMICS,</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 925 1946 2492 2326; baseline 0.011 -66; x_size 416.44135; x_descenders 94.441338; x_ascenders 96.240227">
+      <span class='ocrx_word' id='word_1_5' title='bbox 925 1946 2492 2326; x_wconf 0'>1010]</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 905 2350 3213 2684; baseline 0.005 -12; x_size 415.14804; x_descenders 94.148048; x_ascenders 95.941345">
+      <span class='ocrx_word' id='word_1_6' title='bbox 905 2350 3213 2684; x_wconf 96'>CLASSICAL</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 922 2760 3890 3147; baseline 0.007 -75; x_size 415.14804; x_descenders 94.148048; x_ascenders 95.941345">
+      <span class='ocrx_word' id='word_1_7' title='bbox 922 2760 2278 3085; x_wconf 95'>MUSIC</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 2471 2767 3890 3147; x_wconf 96'>GUIDE,</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 921 3164 4361 3502; baseline 0.007 -23; x_size 415.14804; x_descenders 94.148048; x_ascenders 95.941345">
+      <span class='ocrx_word' id='word_1_9' title='bbox 921 3164 2568 3494; x_wconf 95'>MOVIES</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 2745 3178 4361 3502; x_wconf 95'>WORTH</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 123 3572 3235 3941; baseline 0.009 -64; x_size 406.09497; x_descenders 92.094971; x_ascenders 93.849167">
+      <span class='ocrx_word' id='word_1_11' title='bbox 887 3572 3235 3904; x_wconf 95'>WATCHING</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/056.tiff"; bbox 0 0 5021 6273; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 922 398 3331 2837">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 931 398 1935 631">
+     <span class='ocr_line' id='line_1_1' title="bbox 931 398 1935 631; baseline 0.002 -54; x_size 231; x_descenders 53; x_ascenders 53">
+      <span class='ocrx_word' id='word_1_1' title='bbox 931 398 1935 631; x_wconf 96'>Chapter</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1814 394 1936 636; x_wconf 80'>5</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 922 894 3331 2837">
+     <span class='ocr_line' id='line_1_2' title="bbox 961 894 2012 1213; baseline 0.006 -5; x_size 409.14804; x_descenders 94.148048; x_ascenders 94.148048">
+      <span class='ocrx_word' id='word_1_3' title='bbox 961 894 2012 1213; x_wconf 96'>NEW</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 959 1300 2571 1625; baseline 0.011 -13; x_size 407.84915; x_descenders 93.849159; x_ascenders 93.849167">
+      <span class='ocrx_word' id='word_1_4' title='bbox 959 1300 2571 1625; x_wconf 33'>RULES—</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 922 1701 2198 2028; baseline 0.007 -11; x_size 409.14804; x_descenders 94.148048; x_ascenders 94.148048">
+      <span class='ocrx_word' id='word_1_5' title='bbox 922 1701 2198 2028; x_wconf 96'>YOUR</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 954 2111 3331 2439; baseline 0.007 -15; x_size 407.84915; x_descenders 93.849159; x_ascenders 93.849167">
+      <span class='ocrx_word' id='word_1_6' title='bbox 954 2111 3331 2439; x_wconf 95'>PERSONAL</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 933 2513 2158 2837; baseline 0.001 -2; x_size 418.24023; x_descenders 96.240219; x_ascenders 96.240227">
+      <span class='ocrx_word' id='word_1_7' title='bbox 933 2513 2158 2837; x_wconf 96'>CODE</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

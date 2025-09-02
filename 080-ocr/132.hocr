@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/132.tiff"; bbox 0 0 4992 6250; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 36 1125 4981 6189">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 36 1125 4981 6189">
+     <span class='ocr_line' id='line_1_1' title="bbox 36 1125 4981 1142; baseline 0.001 -6; x_size 13.228093; x_descenders 3.2280929; x_ascenders 3.2809048">
+      <span class='ocrx_word' id='word_1_1' title='bbox 36 1126 1023 1136; x_wconf 0'>ER</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1443 1126 3570 1141; x_wconf 9'>ie</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 3504 1121 3574 1146; x_wconf 20'>oie</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 3574 1130 4981 1142; x_wconf 0'>SE</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 4932 1126 4954 1149; x_wconf 3'>et</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 4965 1126 4985 1149; x_wconf 31'>ars</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 37 1196 4981 1226; baseline 0.002 -12; x_size 13.228093; x_descenders 3.2280929; x_ascenders 3.2809048">
+      <span class='ocrx_word' id='word_1_7' title='bbox 37 1196 4981 1226; x_wconf 15'>a</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 2036 6179 2049 6189; baseline 0 0; x_size 13.228093; x_descenders 3.2280929; x_ascenders 3.2809048">
+      <span class='ocrx_word' id='word_1_8' title='bbox 2036 6179 2049 6189; x_wconf 26'>Ld</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

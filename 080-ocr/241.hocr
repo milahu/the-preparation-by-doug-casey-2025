@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/241.tiff"; bbox 0 0 4988 6246; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 448 5618 4611 5991">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 448 5618 4611 5991">
+     <span class='ocr_line' id='line_1_1' title="bbox 448 5618 4611 5734; baseline 0.008 -38; x_size 115.37599; x_descenders 24.375992; x_ascenders 30.333334">
+      <span class='ocrx_word' id='word_1_1' title='bbox 448 5642 1078 5702; x_wconf 65'>COSTSTOTAL=</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1121 5699 1387 5703; x_wconf 0'>.</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 1402 5637 1441 5712; x_wconf 0'>$</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 2801 5636 2881 5731; x_wconf 46'>=:</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 3029 5638 3263 5732; x_wconf 9'>=</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 3559 5636 3665 5734; x_wconf 37'>=</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 4464 5928 4604 5991; baseline 0 0; x_size 79.875687; x_descenders 16.875689; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_7' title='bbox 4464 5928 4604 5991; x_wconf 96'>241</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

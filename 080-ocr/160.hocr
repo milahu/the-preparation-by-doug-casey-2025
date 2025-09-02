@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/160.tiff"; bbox 0 0 5039 6287; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 897 387 3331 1615">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 897 387 3331 1615">
+     <span class='ocr_line' id='line_1_1' title="bbox 898 387 2032 620; baseline 0.001 -53; x_size 232; x_descenders 53; x_ascenders 54">
+      <span class='ocrx_word' id='word_1_1' title='bbox 898 387 2032 620; x_wconf 96'>Chapter</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1805 383 2028 626; x_wconf 96'>13</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 897 880 3331 1216; baseline 0.007 -19; x_size 408.625; x_descenders 93.625; x_ascenders 95.375">
+      <span class='ocrx_word' id='word_1_3' title='bbox 897 880 3331 1216; x_wconf 95'>ACADEMIC</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 932 1287 3223 1615; baseline 0.007 -15; x_size 408.625; x_descenders 93.625; x_ascenders 95.375">
+      <span class='ocrx_word' id='word_1_4' title='bbox 932 1287 3223 1615; x_wconf 96'>PROGRAM</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

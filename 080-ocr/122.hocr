@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/122.tiff"; bbox 0 0 5017 6270; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 922 411 3411 2042">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 922 411 3411 2042">
+     <span class='ocr_line' id='line_1_1' title="bbox 922 411 2061 644; baseline 0.004 -53; x_size 232; x_descenders 53; x_ascenders 54">
+      <span class='ocrx_word' id='word_1_1' title='bbox 922 411 2061 644; x_wconf 95'>Chapter</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1829 407 2052 650; x_wconf 96'>10</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 952 905 3411 1238; baseline 0.008 -19; x_size 406.03058; x_descenders 93.030563; x_ascenders 94.76944">
+      <span class='ocrx_word' id='word_1_3' title='bbox 952 905 3411 1238; x_wconf 94'>BECOMING</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 949 1312 2656 1636; baseline 0.005 -11; x_size 411.21945; x_descenders 94.219444; x_ascenders 95.980553">
+      <span class='ocrx_word' id='word_1_4' title='bbox 949 1312 2656 1636; x_wconf 95'>FUTURE</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 946 1717 2457 2042; baseline 0.005 -11; x_size 406.03058; x_descenders 93.030563; x_ascenders 94.76944">
+      <span class='ocrx_word' id='word_1_5' title='bbox 946 1717 2457 2042; x_wconf 96'>PROOF</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/001.tiff"; bbox 0 0 4969 6231; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 529 422 3637 5676">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 535 422 2295 612">
+     <span class='ocr_line' id='line_1_1' title="bbox 535 422 2295 612; baseline -0.002 -3; x_size 255; x_descenders 68; x_ascenders 51">
+      <span class='ocrx_word' id='word_1_1' title='bbox 535 423 1317 612; x_wconf 95'>DOUG</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1412 422 2295 611; x_wconf 96'>CASEY</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 529 730 2764 841">
+     <span class='ocr_line' id='line_1_2' title="bbox 529 730 2764 841; baseline -0.001 -1; x_size 144.54546; x_descenders 38.545456; x_ascenders 28.909092">
+      <span class='ocrx_word' id='word_1_3' title='bbox 529 734 950 840; x_wconf 96'>MATT</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 996 732 1481 841; x_wconf 93'>SMITH</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1565 731 1640 841; x_wconf 92'>&amp;</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1688 732 2216 839; x_wconf 96'>MAXIM</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 2276 730 2764 839; x_wconf 95'>SMITH</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 538 5305 3637 5676">
+     <span class='ocr_line' id='line_1_3' title="bbox 546 5305 3637 5447; baseline -0.001 -3; x_size 255; x_descenders 68; x_ascenders 51">
+      <span class='ocrx_word' id='word_1_8' title='bbox 546 5306 1052 5447; x_wconf 96'>HOW</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1099 5306 1363 5446; x_wconf 96'>TO</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1437 5306 2299 5446; x_wconf 96'>BECOME</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 2368 5305 3637 5446; x_wconf 96'>COMPETENT</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 538 5534 3538 5676; baseline 0 0; x_size 255; x_descenders 68; x_ascenders 51">
+      <span class='ocrx_word' id='word_1_12' title='bbox 538 5535 1721 5676; x_wconf 96'>CONFIDENT</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1765 5537 2199 5673; x_wconf 96'>AND</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 2274 5534 3538 5676; x_wconf 96'>DANGEROUS</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/005.tiff"; bbox 0 0 4981 6241; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 571 4859 4658 5680">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 571 4859 4658 5680">
+     <span class='ocr_line' id='line_1_1' title="bbox 571 4859 1256 5107; baseline 0 0; x_size 527.25; x_descenders 115.5; x_ascenders 137.25">
+      <span class='ocrx_word' id='word_1_1' title='bbox 571 4859 1256 5107; x_wconf 96'>THE</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 593 5284 4658 5680; baseline 0 -115; x_size 527.25; x_descenders 115.5; x_ascenders 137.25">
+      <span class='ocrx_word' id='word_1_2' title='bbox 593 5284 3309 5570; x_wconf 96'>PREPARATION</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

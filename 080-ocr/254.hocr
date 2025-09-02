@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/254.tiff"; bbox 0 0 4989 6247; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 371 5643 4335 5953">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 375 5643 4548 5953">
+     <span class='ocr_line' id='line_1_1' title="bbox 375 5643 429 5722; baseline -0.001 0; x_size 81.789902; x_descenders 20.7899; x_ascenders 20.333334">
+      <span class='ocrx_word' id='word_1_1' title='bbox 375 5643 429 5722; x_wconf 79'>T</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 3221 5647 4546 5723; x_wconf 0'>LL</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 371 5715 4335 5770; baseline 0 -30; x_size 25.475542; x_descenders 6.4755425; x_ascenders 6.3333335">
+      <span class='ocrx_word' id='word_1_3' title='bbox 371 5717 429 5770; x_wconf 47'>oo</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 864 5715 975 5754; x_wconf 11'>J</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1124 5715 1228 5754; x_wconf 25'>A</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1432 5715 3282 5754; x_wconf 0'>£m</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 3584 5715 3906 5754; x_wconf 0'>ll</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 3961 5715 4020 5754; x_wconf 36'>a</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 4081 5715 4121 5754; x_wconf 32'>a</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 4149 5715 4192 5754; x_wconf 48'>re</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 4247 5715 4335 5754; x_wconf 17'>RE</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 378 5890 521 5953; baseline -0.007 0; x_size 83.130722; x_descenders 21.130718; x_ascenders 20.666668">
+      <span class='ocrx_word' id='word_1_12' title='bbox 378 5890 521 5953; x_wconf 96'>254</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

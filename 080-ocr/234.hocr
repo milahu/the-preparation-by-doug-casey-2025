@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/234.tiff"; bbox 0 0 4986 6245; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 359 1187 4541 5958">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 362 1187 4543 5958">
+     <span class='ocr_line' id='line_1_1' title="bbox 854 1187 3399 1283; baseline -0.001 26; x_size 198; x_descenders 51; x_ascenders 49">
+      <span class='ocrx_word' id='word_1_1' title='bbox 854 1220 1149 1283; x_wconf 93'>Boulder</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1175 1220 1500 1283; x_wconf 96'>Outdoor</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 1529 1220 1815 1283; x_wconf 96'>Survival</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1851 1220 2120 1283; x_wconf 59'>School.</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 3210 1187 3691 1306; x_wconf 21'>jams]</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 3738 1206 4537 1310; x_wconf 21'>0</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 362 5421 414 5494; baseline -0.002 32; x_size 93.571175; x_descenders 20.571177; x_ascenders 24.333334">
+      <span class='ocrx_word' id='word_1_7' title='bbox 362 5421 414 5494; x_wconf 31'>8</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1127 5437 4543 5520; x_wconf 0'>Trmmmmmmm————ee,</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 359 5606 4541 5718; baseline 0.001 -27.006; x_size 103.82555; x_descenders 22.825554; x_ascenders 27">
+      <span class='ocrx_word' id='word_1_9' title='bbox 359 5606 415 5718; x_wconf 37'>Lu</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 991 5613 1037 5662; x_wconf 0'>Peers</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1509 5680 1554 5690; x_wconf 0'>sss</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1565 5678 2027 5689; x_wconf 0'>ssessssseseeeeemnensssss</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 2041 5677 2159 5687; x_wconf 0'>assess</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 2168 5675 3089 5687; x_wconf 0'>sssssssssssssssssssssssssssss</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 3216 5610 3646 5699; x_wconf 0'> 2oi._</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 3693 5610 4178 5698; x_wconf 36'>Totalhours</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 366 5894 509 5958; baseline -0.014 0; x_size 80.753204; x_descenders 17.753208; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_17' title='bbox 366 5894 509 5958; x_wconf 96'>234</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

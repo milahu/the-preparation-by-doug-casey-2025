@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/300.tiff"; bbox 0 0 4962 6226; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2106 5087 3327 5952">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 2106 5087 3327 5952">
+     <span class='ocr_line' id='line_1_1' title="bbox 2253 5087 2752 5134; baseline 0.004 -2; x_size 59.498299; x_descenders 12.498297; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_1' title='bbox 2253 5087 2456 5134; x_wconf 96'>Printed</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 2482 5087 2527 5133; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 2552 5087 2752 5134; x_wconf 95'>Poland</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 2178 5169 2829 5228; baseline -0.002 -12; x_size 59; x_descenders 12; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_4' title='bbox 2178 5169 2244 5228; x_wconf 96'>by</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 2264 5169 2505 5216; x_wconf 96'>Amazon</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 2530 5169 2829 5216; x_wconf 95'>Fulfillment</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 2106 5251 2901 5310; baseline 0.003 -13; x_size 60; x_descenders 13; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_7' title='bbox 2106 5252 2306 5298; x_wconf 96'>Poland</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 2331 5251 2424 5310; x_wconf 93'>Sp.</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 2447 5264 2479 5297; x_wconf 90'>z</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 2500 5264 2622 5306; x_wconf 83'>0.0.,</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 2646 5252 2901 5299; x_wconf 89'>Wroctaw</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 2800 5905 3327 5952; baseline -0.002 0; x_size 60.833332; x_descenders 12.833333; x_ascenders 14.115385">
+      <span class='ocrx_word' id='word_1_12' title='bbox 2800 5905 3327 5952; x_wconf 88'>54832204R00164</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

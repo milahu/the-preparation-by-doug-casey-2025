@@ -1,0 +1,10 @@
+num_pages=302
+scan_x=210
+scan_y=278
+
+scan_resolution=600
+scan_format=tiff
+
+# these values depend on the scanner model
+scan_mode="True Gray"
+scan_source="Automatic Document Feeder(left aligned,Duplex)"

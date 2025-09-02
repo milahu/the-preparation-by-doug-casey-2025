@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/176.tiff"; bbox 0 0 4989 6247; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 873 399 3579 2032">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 873 399 3579 1625">
+     <span class='ocr_line' id='line_1_1' title="bbox 873 399 2018 632; baseline -0.001 -52; x_size 233; x_descenders 53; x_ascenders 59">
+      <span class='ocrx_word' id='word_1_1' title='bbox 873 399 2018 632; x_wconf 95'>Chapter</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1780 395 2024 638; x_wconf 96'>14</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 874 895 3579 1223; baseline 0.004 -11; x_size 406.81216; x_descenders 92.812157; x_ascenders 103.22099">
+      <span class='ocrx_word' id='word_1_3' title='bbox 874 895 3579 1223; x_wconf 37'>ACTIVITIES—-</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 910 1298 1558 1625; baseline 0.011 -7; x_size 423.65469; x_descenders 96.654694; x_ascenders 107.49447">
+      <span class='ocrx_word' id='word_1_4' title='bbox 910 1298 1558 1625; x_wconf 94'>DO</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 911 1709 3006 2032">
+     <span class='ocr_line' id='line_1_4' title="bbox 911 1709 3006 2032; baseline 0.001 -7; x_size 405.51657; x_descenders 92.516571; x_ascenders 102.89227">
+      <span class='ocrx_word' id='word_1_5' title='bbox 911 1712 1786 2032; x_wconf 96'>FUN</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1994 1709 3006 2031; x_wconf 94'>SHIT</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

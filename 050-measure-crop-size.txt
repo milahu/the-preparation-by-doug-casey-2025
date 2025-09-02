@@ -1,0 +1,11 @@
+# original size: 1748x2480
+# width x height
+crop_size=4960x6270
+crop_size=4960x6224
+crop_x=000
+lowthresh=20; highthresh=90
+level=${lowthresh}x${highthresh}%
+rotate_odd=0
+rotate_even=0
+crop_odd_expr='echo ${crop_size}+$crop_x+0'
+crop_even_expr='echo ${crop_size}+000+0'
