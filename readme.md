@@ -53,6 +53,7 @@ open this book and start Cycle One today.
 The world won’t wait, and neither should you.
 
 - ASIN: B0FLRKYCCP
+- ISBN: 9798296822239
 - Publisher: Independently published
 - Publication date: August 18, 2025
 - Language: English
