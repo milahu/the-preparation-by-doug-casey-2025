@@ -14,26 +14,26 @@ Doug Casey (Author), Matt Smith (Author), Maxim Smith (Author)
 
 **Skip the debt. Build the man.**
 
-What if you could trade four stagnant years in lecture halls for four years of adventure—emerging as a debt‑free
+What if you could trade four stagnant years in lecture halls for four years of adventure — emerging as a debt‑free
 EMT, pilot, welder, web/app builder, rancher, and entrepreneur all in one?
 
 **The Preparation** is the field manual for young men (and the parents who love them)
 who know the old college formula is broken and want a roadmap
 that actually forges competence, confidence, and real‑world value.
 
-Written by three generations—legendary investor and bestselling author Doug Casey,
+Written by three generations — legendary investor and bestselling author Doug Casey,
 entrepreneur Matt Smith, and twenty‑year‑old “beta tester” Maxim Smith —
 this book distills their hard‑won wisdom into a four‑year, 16‑cycle program you can start tomorrow.
 
-- **16 themed cycles** — Medic, Cowboy, Pilot, Fighter, Hacker, Maker,
-  and more—each built around a hands‑on “Anchor Course” that forces you to learn by doing, not by cramming.
+- **16 themed cycles** — Medic, Cowboy, Pilot, Fighter, Hacker, Maker, and more —
+  each built around a hands‑on “Anchor Course” that forces you to learn by doing, not by cramming.
 - **Earn‑while‑you‑learn design** shows you exactly how to pay your way through each cycle and graduate debt‑free.
 - **Cost: roughly one year of tuition** – yet delivers four years of marketable skills,
   global travel, and a network of do‑ers, not talkers.
-- **Foundational philosophy** rooted in Stoicism and Renaissance thinking so you don’t just master tasks—you master yourself.
+- **Foundational philosophy** rooted in Stoicism and Renaissance thinking so you don’t just master tasks — you master yourself.
 - **Bullet‑proof curriculum** : step‑by‑step schedules, book lists, online courses,
   and locations for every skill so you’re never guessing what to do next.
-- **Battle‑tested results** —Maxim used the program to rack up EMT shifts on Oregon wildfires,
+- **Battle‑tested results** — Maxim used the program to rack up EMT shifts on Oregon wildfires,
   fly solo over the Rockies, ranch in Uruguay, and sail the Strait of Magellan before he turned twenty.
 
 **The Problem:**
