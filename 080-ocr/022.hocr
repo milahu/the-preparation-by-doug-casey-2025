@@ -105,6 +105,12 @@
       <span class='ocrx_word' id='word_1_80' title='bbox 1211 1124 1296 1207; x_wconf 96'>by</span>
       <span class='ocrx_word' id='word_1_81' title='bbox 1326 1125 1446 1188; x_wconf 96'>the</span>
       <span class='ocrx_word' id='word_1_82' title='bbox 1483 1127 1709 1189; x_wconf 96'>movie</span>
+      <!--
+       https://en.wikipedia.org/wiki/Twins_(1988_film)
+       Twins is a 1988 American buddy comedy film directed and produced by Ivan Reitman.
+       The film is about unlikely fraternal twin brothers (Arnold Schwarzenegger and Danny DeVito) who were separated at birth.
+       The core of the film is the contrast between the streetwise Vincent (DeVito) and the intelligent but naive Julius (Schwarzenegger).
+      -->
       <span class='ocrx_word' id='word_1_83' title='bbox 1749 1128 1950 1190; x_wconf 96'>Twins</span>
       <span class='ocrx_word' id='word_1_84' title='bbox 1981 1128 2138 1191; x_wconf 96'>with</span>
       <span class='ocrx_word' id='word_1_85' title='bbox 2173 1129 2427 1193; x_wconf 96'>Arnold</span>
@@ -664,7 +670,6 @@
       <span class='ocrx_word' id='word_1_579' title='bbox 4243 5063 4554 5135; x_wconf 96'>wisdom,</span>
      </span>
      <span class='ocr_line' id='line_1_37' title="bbox 389 5169 4554 5296; baseline 0.002 -61.008; x_size 81; x_descenders 19; x_ascenders 19">
-      <span class='ocrx_word' id='word_1_580' title='bbox 389 5169 448 5296; x_wconf 31'>Zz</span>
       <span class='ocrx_word' id='word_1_581' title='bbox 888 5174 1023 5236; x_wconf 96'>and</span>
       <span class='ocrx_word' id='word_1_582' title='bbox 1055 5174 1237 5237; x_wconf 96'>what</span>
       <span class='ocrx_word' id='word_1_583' title='bbox 1262 5193 1403 5237; x_wconf 96'>was</span>
@@ -683,7 +688,6 @@
       <span class='ocrx_word' id='word_1_596' title='bbox 4222 5183 4554 5253; x_wconf 96'>Socrates,</span>
      </span>
      <span class='ocr_line' id='line_1_38' title="bbox 393 5293 4555 5393; baseline 0.002 -39; x_size 82; x_descenders 19; x_ascenders 19">
-      <span class='ocrx_word' id='word_1_597' title='bbox 393 5299 444 5393; x_wconf 93'>=</span>
       <span class='ocrx_word' id='word_1_598' title='bbox 891 5293 1215 5374; x_wconf 95'>pursuing</span>
       <span class='ocrx_word' id='word_1_599' title='bbox 1246 5312 1281 5356; x_wconf 96'>a</span>
       <span class='ocrx_word' id='word_1_600' title='bbox 1312 5293 1579 5375; x_wconf 96'>subject</span>
@@ -699,7 +703,6 @@
       <span class='ocrx_word' id='word_1_610' title='bbox 4327 5299 4555 5371; x_wconf 96'>Woke,</span>
      </span>
      <span class='ocr_line' id='line_1_39' title="bbox 389 5393 4555 5518; baseline 0.001 -45.006; x_size 82; x_descenders 19; x_ascenders 20">
-      <span class='ocrx_word' id='word_1_611' title='bbox 389 5393 446 5518; x_wconf 0'>2%</span>
       <span class='ocrx_word' id='word_1_612' title='bbox 888 5411 1236 5484; x_wconf 95'>socialists,</span>
       <span class='ocrx_word' id='word_1_613' title='bbox 1267 5431 1346 5474; x_wconf 96'>or</span>
       <span class='ocrx_word' id='word_1_614' title='bbox 1370 5431 1573 5475; x_wconf 96'>some</span>
@@ -720,7 +723,6 @@
       <span class='ocrx_word' id='word_1_629' title='bbox 4259 5418 4555 5480; x_wconf 96'>minutes</span>
      </span>
      <span class='ocr_line' id='line_1_40' title="bbox 393 5521 4555 5617; baseline 0 -23; x_size 82; x_descenders 19; x_ascenders 20">
-      <span class='ocrx_word' id='word_1_630' title='bbox 393 5521 445 5617; x_wconf 26'>or</span>
       <span class='ocrx_word' id='word_1_631' title='bbox 888 5529 964 5592; x_wconf 96'>of</span>
       <span class='ocrx_word' id='word_1_632' title='bbox 987 5549 1023 5593; x_wconf 96'>a</span>
       <span class='ocrx_word' id='word_1_633' title='bbox 1056 5529 1407 5610; x_wconf 96'>professor</span>
@@ -737,7 +739,6 @@
       <span class='ocrx_word' id='word_1_644' title='bbox 4251 5534 4555 5597; x_wconf 96'>harmful.</span>
      </span>
      <span class='ocr_line' id='line_1_41' title="bbox 394 5605 3921 5745; baseline 0 -33; x_size 82; x_descenders 19; x_ascenders 20">
-      <span class='ocrx_word' id='word_1_645' title='bbox 394 5605 447 5745; x_wconf 50'>i</span>
       <span class='ocrx_word' id='word_1_646' title='bbox 887 5649 1161 5731; x_wconf 80'>Today&#39;s</span>
       <span class='ocrx_word' id='word_1_647' title='bbox 1191 5649 1460 5731; x_wconf 95'>college</span>
       <span class='ocrx_word' id='word_1_648' title='bbox 1491 5650 1899 5730; x_wconf 96'>experience</span>
@@ -750,7 +751,8 @@
       <span class='ocrx_word' id='word_1_655' title='bbox 3596 5669 3921 5730; x_wconf 95'>approve.</span>
      </span>
      <span class='ocr_line' id='line_1_42' title="bbox 394 5754 447 5788; baseline 0 -15; x_size 83.278305; x_descenders 19.447754; x_ascenders 19.717154">
-      <span class='ocrx_word' id='word_1_656' title='bbox 394 5754 447 5788; x_wconf 44'>=</span>
+      <span class='ocrx_word' id='word_1_656' title='bbox 394 5663 447 5788; x_wconf 44'>THE</span>
+      <span class='ocrx_word' id='word_1_630' title='bbox 393 5191 445 5638; x_wconf 26'>PREPARATION</span>
      </span>
      <span class='ocr_line' id='line_1_43' title="bbox 397 5913 486 5974; baseline 0 0; x_size 83.278305; x_descenders 19.447754; x_ascenders 19.717154">
       <span class='ocrx_word' id='word_1_657' title='bbox 397 5913 486 5974; x_wconf 96'>22</span>
