@@ -34,6 +34,7 @@
       <span class='ocrx_word' id='word_1_14' title='bbox 1020 2273 1192 2336; x_wconf 95'>least</span>
       <span class='ocrx_word' id='word_1_15' title='bbox 1228 2272 1561 2345; x_wconf 96'>received,</span>
       <span class='ocrx_word' id='word_1_16' title='bbox 1598 2292 1632 2335; x_wconf 96'>a</span>
+      <!-- BA bachelor of arts -->
       <span class='ocrx_word' id='word_1_17' title='bbox 1673 2276 1791 2335; x_wconf 96'>B.A</span>
       <span class='ocrx_word' id='word_1_18' title='bbox 1822 2272 2088 2354; x_wconf 96'>degree</span>
       <span class='ocrx_word' id='word_1_19' title='bbox 2120 2271 2298 2335; x_wconf 96'>from</span>
@@ -89,7 +90,9 @@
       <span class='ocrx_word' id='word_1_59' title='bbox 3160 2501 3239 2564; x_wconf 95'>I&#39;d</span>
       <span class='ocrx_word' id='word_1_60' title='bbox 3273 2501 3403 2564; x_wconf 96'>had</span>
       <span class='ocrx_word' id='word_1_61' title='bbox 3434 2501 3628 2583; x_wconf 92'>good</span>
-      <span class='ocrx_word' id='word_1_62' title='bbox 3659 2501 4115 2564; x_wconf 86'>counsel—or</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 3657 2496 3941 2567; x_wconf 86'>counsel</span>
+      <span class='ocrx_word' id='word_1_62a' title='bbox 3944 2533 4034 2546; x_wconf 86'>—</span>
+      <span class='ocrx_word' id='word_1_62b' title='bbox 4035 2506 4115 2570; x_wconf 86'>or</span>
      </span>
     </p>
 
@@ -99,7 +102,9 @@
       <span class='ocrx_word' id='word_1_64' title='bbox 607 2638 643 2682; x_wconf 96'>a</span>
       <span class='ocrx_word' id='word_1_65' title='bbox 678 2619 868 2682; x_wconf 96'>book</span>
       <span class='ocrx_word' id='word_1_66' title='bbox 900 2619 1020 2682; x_wconf 92'>like</span>
-      <span class='ocrx_word' id='word_1_67' title='bbox 1048 2619 1293 2682; x_wconf 92'>this—I</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 1048 2619 1181 2682; x_wconf 92'>this</span>
+      <span class='ocrx_word' id='word_1_67a' title='bbox 1183 2651 1271 2664; x_wconf 92'>—</span>
+      <span class='ocrx_word' id='word_1_67b' title='bbox 1273 2621 1300 2684; x_wconf 92'>I</span>
       <span class='ocrx_word' id='word_1_68' title='bbox 1320 2619 1549 2682; x_wconf 95'>would</span>
       <span class='ocrx_word' id='word_1_69' title='bbox 1585 2619 1756 2682; x_wconf 96'>have</span>
       <span class='ocrx_word' id='word_1_70' title='bbox 1788 2618 1960 2681; x_wconf 96'>used</span>
@@ -312,7 +317,9 @@
     <p class='ocr_par' id='par_1_16' lang='eng' title="bbox 439 4230 4118 4314">
      <span class='ocr_line' id='line_1_16' title="bbox 439 4230 4118 4314; baseline 0.001 -21; x_size 82; x_descenders 19; x_ascenders 19">
       <span class='ocrx_word' id='word_1_224' title='bbox 439 4250 474 4293; x_wconf 93'>a</span>
-      <span class='ocrx_word' id='word_1_225' title='bbox 510 4230 1101 4312; x_wconf 92'>degree—which,</span>
+      <span class='ocrx_word' id='word_1_225' title='bbox 510 4230 773 4312; x_wconf 92'>degree</span>
+      <span class='ocrx_word' id='word_1_225a' title='bbox 774 4259 864 4277; x_wconf 92'>—</span>
+      <span class='ocrx_word' id='word_1_225b' title='bbox 1102 4228 865 4310; x_wconf 92'>which,</span>
       <span class='ocrx_word' id='word_1_226' title='bbox 1136 4230 1312 4294; x_wconf 96'>after</span>
       <span class='ocrx_word' id='word_1_227' title='bbox 1338 4251 1510 4313; x_wconf 95'>your</span>
       <span class='ocrx_word' id='word_1_228' title='bbox 1538 4231 1681 4295; x_wconf 96'>first</span>
@@ -324,7 +331,9 @@
       <span class='ocrx_word' id='word_1_234' title='bbox 2795 4251 2873 4295; x_wconf 96'>or</span>
       <span class='ocrx_word' id='word_1_235' title='bbox 2903 4233 3023 4295; x_wconf 96'>ask</span>
       <span class='ocrx_word' id='word_1_236' title='bbox 3052 4241 3128 4295; x_wconf 93'>to</span>
-      <span class='ocrx_word' id='word_1_237' title='bbox 3161 4234 3512 4295; x_wconf 91'>see—and</span>
+      <span class='ocrx_word' id='word_1_237' title='bbox 3161 4234 3283 4295; x_wconf 91'>see</span>
+      <span class='ocrx_word' id='word_1_237a' title='bbox 3283 4262 3374 4275; x_wconf 91'>—</span>
+      <span class='ocrx_word' id='word_1_237b' title='bbox 3374 4231 3512 4300; x_wconf 91'>and</span>
       <span class='ocrx_word' id='word_1_238' title='bbox 3549 4251 3634 4295; x_wconf 96'>an</span>
       <span class='ocrx_word' id='word_1_239' title='bbox 3670 4233 4008 4296; x_wconf 96'>albatross</span>
       <span class='ocrx_word' id='word_1_240' title='bbox 4041 4233 4118 4296; x_wconf 96'>of</span>
@@ -460,7 +469,6 @@
       <span class='ocrx_word' id='word_1_335' title='bbox 3481 5264 3613 5327; x_wconf 96'>lost</span>
       <span class='ocrx_word' id='word_1_336' title='bbox 3639 5265 3774 5328; x_wconf 96'>and</span>
       <span class='ocrx_word' id='word_1_337' title='bbox 3808 5265 4107 5346; x_wconf 96'>perhaps</span>
-      <span class='ocrx_word' id='word_1_338' title='bbox 4542 5301 4596 5341; x_wconf 54'>=&gt;</span>
      </span>
     </p>
 
@@ -505,7 +513,6 @@
       <span class='ocrx_word' id='word_1_370' title='bbox 3362 5494 3498 5557; x_wconf 96'>and</span>
       <span class='ocrx_word' id='word_1_371' title='bbox 3529 5494 3866 5558; x_wconf 96'>selective.</span>
       <span class='ocrx_word' id='word_1_372' title='bbox 3894 5495 4109 5558; x_wconf 86'>That&#39;s</span>
-      <span class='ocrx_word' id='word_1_373' title='bbox 4538 5460 4596 5602; x_wconf 28'>i;</span>
      </span>
     </p>
 
@@ -515,13 +522,12 @@
       <span class='ocrx_word' id='word_1_375' title='bbox 563 5603 805 5684; x_wconf 96'>longer</span>
       <span class='ocrx_word' id='word_1_376' title='bbox 831 5604 952 5666; x_wconf 96'>the</span>
       <span class='ocrx_word' id='word_1_377' title='bbox 981 5623 1160 5667; x_wconf 96'>case.</span>
-      <span class='ocrx_word' id='word_1_378' title='bbox 4541 5609 4596 5694; x_wconf 64'>Q</span>
      </span>
     </p>
 
     <p class='ocr_par' id='par_1_27' lang='eng' title="bbox 4540 5704 4595 5812">
      <span class='ocr_line' id='line_1_27' title="bbox 4540 5704 4595 5812; baseline 0 0; x_size 140.93518; x_descenders 32.935181; x_ascenders 33.189983">
-      <span class='ocrx_word' id='word_1_379' title='bbox 4540 5704 4595 5812; x_wconf 80'>z</span>
+      <span class='ocrx_word' id='word_1_379' title='bbox 4540 5296 4595 5812; x_wconf 80'>INTRODUCTION</span>
      </span>
     </p>
 
