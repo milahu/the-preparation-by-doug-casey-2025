@@ -465,7 +465,7 @@
 
     <p class='ocr_par' id='par_1_24' lang='eng' title="bbox 436 3502 4754 3585">
      <span class='ocr_line' id='line_1_24' title="bbox 436 3502 4754 3585; baseline 0 -21; x_size 81; x_descenders 18; x_ascenders 19">
-      <span class='ocrx_word' id='word_1_338' title='bbox 436 3502 578 3564; x_wconf 87'>Into</span>
+      <span class='ocrx_word' id='word_1_338' title='bbox 436 3502 578 3564; x_wconf 87'>into</span>
       <span class='ocrx_word' id='word_1_339' title='bbox 606 3520 641 3564; x_wconf 95'>a</span>
       <span class='ocrx_word' id='word_1_340' title='bbox 671 3502 978 3565; x_wconf 96'>Harvard</span>
       <span class='ocrx_word' id='word_1_341' title='bbox 1001 3505 1176 3565; x_wconf 96'>Man.</span>
@@ -718,7 +718,6 @@
       <span class='ocrx_word' id='word_1_528' title='bbox 2808 5321 2948 5378; x_wconf 96'>not</span>
       <span class='ocrx_word' id='word_1_529' title='bbox 2977 5313 3162 5399; x_wconf 96'>only</span>
       <span class='ocrx_word' id='word_1_530' title='bbox 3192 5314 3874 5390; x_wconf 96'>unconventional,</span>
-      <span class='ocrx_word' id='word_1_531' title='bbox 4532 5308 4586 5407; x_wconf 38'>Z</span>
      </span>
     </p>
 
@@ -729,16 +728,9 @@
       <span class='ocrx_word' id='word_1_534' title='bbox 848 5428 936 5486; x_wconf 96'>to</span>
       <span class='ocrx_word' id='word_1_535' title='bbox 968 5429 1177 5487; x_wconf 96'>most</span>
       <span class='ocrx_word' id='word_1_536' title='bbox 1208 5422 1518 5507; x_wconf 96'>people.</span>
-      <span class='ocrx_word' id='word_1_537' title='bbox 4532 5412 4586 5509; x_wconf 87'>5</span>
-     </span>
-     <span class='ocr_line' id='line_1_38' title="bbox 4531 5519 4586 5606; baseline 0 0; x_size 113.42447; x_descenders 26.424471; x_ascenders 26.632929">
-      <span class='ocrx_word' id='word_1_538' title='bbox 4531 5519 4586 5606; x_wconf 81'>a</span>
-     </span>
-     <span class='ocr_line' id='line_1_39' title="bbox 4531 5617 4585 5703; baseline 0 0; x_size 112.12074; x_descenders 26.120739; x_ascenders 26.326803">
-      <span class='ocrx_word' id='word_1_539' title='bbox 4531 5617 4585 5703; x_wconf 0'>&amp;</span>
      </span>
      <span class='ocr_line' id='line_1_40' title="bbox 4530 5712 4584 5819; baseline 0 0; x_size 139.49905; x_descenders 32.499062; x_ascenders 32.75544">
-      <span class='ocrx_word' id='word_1_540' title='bbox 4530 5712 4584 5819; x_wconf 75'>z</span>
+      <span class='ocrx_word' id='word_1_540' title='bbox 4530 5304 4584 5819; x_wconf 75'>INTRODUCTION</span>
      </span>
     </p>
 
