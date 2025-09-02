@@ -294,7 +294,7 @@
     <p class='ocr_par' id='par_1_15' lang='eng' title="bbox 429 4327 1266 4390">
      <span class='ocr_line' id='line_1_15' title="bbox 429 4327 1266 4390; baseline 0.001 -1; x_size 81.158157; x_descenders 19.158155; x_ascenders 18">
       <span class='ocrx_word' id='word_1_211' title='bbox 429 4346 588 4390; x_wconf 91'>men</span>
-      <span class='ocrx_word' id='word_1_212' title='bbox 620 4331 640 4389; x_wconf 87'>[</span>
+      <span class='ocrx_word' id='word_1_212' title='bbox 620 4331 640 4389; x_wconf 87'>I</span>
       <span class='ocrx_word' id='word_1_213' title='bbox 672 4327 843 4390; x_wconf 96'>have</span>
       <span class='ocrx_word' id='word_1_214' title='bbox 874 4346 1034 4390; x_wconf 96'>ever</span>
       <span class='ocrx_word' id='word_1_215' title='bbox 1063 4335 1266 4390; x_wconf 96'>met...</span>
@@ -366,7 +366,8 @@
      <span class='ocr_line' id='line_1_19' title="bbox 425 4898 4093 4982; baseline 0.001 -20; x_size 81; x_descenders 18; x_ascenders 19">
       <span class='ocrx_word' id='word_1_262' title='bbox 425 4899 660 4962; x_wconf 96'>desert</span>
       <span class='ocrx_word' id='word_1_263' title='bbox 685 4898 761 4962; x_wconf 92'>of</span>
-      <span class='ocrx_word' id='word_1_264' title='bbox 782 4899 1319 4963; x_wconf 90'>Colorado...I&#39;ve</span>
+      <span class='ocrx_word' id='word_1_264' title='bbox 782 4897 1192 4963; x_wconf 90'>Colorado...</span>
+      <span class='ocrx_word' id='word_1_264a' title='bbox 1193 4897 1321 4964; x_wconf 90'>I&#39;ve</span>
       <span class='ocrx_word' id='word_1_265' title='bbox 1346 4908 1551 4981; x_wconf 94'>spent</span>
       <span class='ocrx_word' id='word_1_266' title='bbox 1580 4904 1616 4963; x_wconf 95'>5</span>
       <span class='ocrx_word' id='word_1_267' title='bbox 1644 4900 1811 4982; x_wconf 96'>days</span>
@@ -452,10 +453,6 @@
       <span class='ocrx_word' id='word_1_327' title='bbox 3508 5495 3601 5557; x_wconf 96'>up</span>
       <span class='ocrx_word' id='word_1_328' title='bbox 3632 5477 3790 5539; x_wconf 96'>with</span>
       <span class='ocrx_word' id='word_1_329' title='bbox 3825 5485 4094 5558; x_wconf 96'>stamps</span>
-      <span class='ocrx_word' id='word_1_330' title='bbox 4528 5520 4581 5547; x_wconf 54'>&quot;</span>
-     </span>
-     <span class='ocr_line' id='line_1_24' title="bbox 4528 5557 4582 5593; baseline 0 0; x_size 46.86377; x_descenders 10.863768; x_ascenders 11.049489">
-      <span class='ocrx_word' id='word_1_331' title='bbox 4528 5557 4582 5593; x_wconf 36'>4</span>
      </span>
     </p>
 
@@ -479,10 +476,9 @@
       <span class='ocrx_word' id='word_1_347' title='bbox 3142 5609 3277 5671; x_wconf 96'>age</span>
       <span class='ocrx_word' id='word_1_348' title='bbox 3308 5589 3383 5653; x_wconf 96'>of</span>
       <span class='ocrx_word' id='word_1_349' title='bbox 3408 5593 3513 5653; x_wconf 96'>20.</span>
-      <span class='ocrx_word' id='word_1_350' title='bbox 4528 5599 4582 5667; x_wconf 81'>&lt;</span>
      </span>
      <span class='ocr_line' id='line_1_26' title="bbox 4527 5712 4580 5789; baseline 0 0; x_size 100.23639; x_descenders 23.236391; x_ascenders 23.633629">
-      <span class='ocrx_word' id='word_1_351' title='bbox 4527 5712 4580 5789; x_wconf 22'>a</span>
+      <span class='ocrx_word' id='word_1_351' title='bbox 4527 5517 4580 5789; x_wconf 22'>PREFACE</span>
      </span>
      <span class='ocr_line' id='line_1_27' title="bbox 4533 5919 4576 5982; baseline 0 0; x_size 83.26091; x_descenders 19.301205; x_ascenders 19.631168">
       <span class='ocrx_word' id='word_1_352' title='bbox 4533 5919 4576 5982; x_wconf 96'>9</span>
