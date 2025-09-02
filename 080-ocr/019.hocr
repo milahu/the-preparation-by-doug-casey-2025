@@ -643,7 +643,7 @@
       <span class='ocrx_word' id='word_1_478' title='bbox 1670 4579 1921 4661; x_wconf 95'>things,</span>
       <span class='ocrx_word' id='word_1_479' title='bbox 1956 4579 2000 4641; x_wconf 95'>if</span>
       <span class='ocrx_word' id='word_1_480' title='bbox 2028 4580 2114 4642; x_wconf 96'>he</span>
-      <span class='ocrx_word' id='word_1_481' title='bbox 2141 4580 2306 4642; x_wconf 79'>will”</span>
+      <span class='ocrx_word' id='word_1_481' title='bbox 2141 4580 2306 4642; x_wconf 79'>will.”</span>
      </span>
     </p>
 
@@ -706,12 +706,6 @@
       <span class='ocrx_word' id='word_1_521' title='bbox 759 5267 960 5326; x_wconf 96'>Have.</span>
       <span class='ocrx_word' id='word_1_522' title='bbox 4535 5304 4588 5344; x_wconf 28'>—</span>
      </span>
-     <span class='ocr_line' id='line_1_36' title="bbox 4534 5355 4589 5423; baseline 0 0; x_size 83.554543; x_descenders 19.443899; x_ascenders 19.589142">
-      <span class='ocrx_word' id='word_1_523' title='bbox 4534 5355 4589 5423; x_wconf 40'>Q</span>
-     </span>
-     <span class='ocr_line' id='line_1_37' title="bbox 4535 5428 4588 5462; baseline 0 0; x_size 63.959755; x_descenders 15; x_ascenders 14.959757">
-      <span class='ocrx_word' id='word_1_524' title='bbox 4535 5428 4588 5462; x_wconf 0'>—-</span>
-     </span>
     </p>
 
     <p class='ocr_par' id='par_1_36' lang='eng' title="bbox 431 5467 4589 5601">
@@ -735,7 +729,6 @@
       <span class='ocrx_word' id='word_1_541' title='bbox 3636 5496 3709 5560; x_wconf 96'>of</span>
       <span class='ocrx_word' id='word_1_542' title='bbox 3732 5516 3937 5561; x_wconf 96'>cause</span>
       <span class='ocrx_word' id='word_1_543' title='bbox 3964 5498 4098 5561; x_wconf 96'>and</span>
-      <span class='ocrx_word' id='word_1_544' title='bbox 4534 5467 4589 5601; x_wconf 50'>&gt;</span>
      </span>
     </p>
 
@@ -761,7 +754,6 @@
       <span class='ocrx_word' id='word_1_562' title='bbox 3470 5612 3604 5675; x_wconf 96'>The</span>
       <span class='ocrx_word' id='word_1_563' title='bbox 3632 5612 3829 5675; x_wconf 96'>result</span>
       <span class='ocrx_word' id='word_1_564' title='bbox 3853 5613 4098 5676; x_wconf 95'>should</span>
-      <span class='ocrx_word' id='word_1_565' title='bbox 4534 5612 4588 5698; x_wconf 24'>©</span>
      </span>
     </p>
 
@@ -787,7 +779,12 @@
       <span class='ocrx_word' id='word_1_583' title='bbox 3638 5733 3713 5789; x_wconf 96'>to</span>
       <span class='ocrx_word' id='word_1_584' title='bbox 3747 5729 3848 5789; x_wconf 96'>Do</span>
       <span class='ocrx_word' id='word_1_585' title='bbox 3882 5746 4092 5790; x_wconf 96'>more.</span>
-      <span class='ocrx_word' id='word_1_586' title='bbox 4529 5703 4587 5818; x_wconf 38'>=z</span>
+     </span>
+    </p>
+
+    <p class='ocr_par'>
+     <span class='ocr_line'>
+      <span class='ocrx_word' id='word_1_586' title='bbox 4529 5296 4587 5818; x_wconf 38'>INTRODUCTION</span>
      </span>
     </p>
 
