@@ -13,7 +13,7 @@
    <div class='ocr_carea' id='block_1_1' title="bbox 452 2505 4608 5989">
     <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 452 2489 4608 5989">
      <span class='ocr_line' id='line_1_1' title="bbox 452 2505 1964 2589; baseline 0.001 9; x_size 131.90077; x_descenders 24.900766; x_ascenders 35.666668">
-      <span class='ocrx_word' id='word_1_1' title='bbox 452 2508 687 2588; x_wconf 92'>you&#39;re</span>
+      <span class='ocrx_word' id='word_1_1' title='bbox 452 2508 687 2588; x_wconf 92'>you're</span>
       <span class='ocrx_word' id='word_1_2' title='bbox 715 2506 931 2589; x_wconf 96'>doing</span>
       <span class='ocrx_word' id='word_1_3' title='bbox 963 2506 1099 2568; x_wconf 96'>and</span>
       <span class='ocrx_word' id='word_1_4' title='bbox 1134 2505 1291 2568; x_wconf 96'>how</span>

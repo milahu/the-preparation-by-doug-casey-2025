@@ -13,7 +13,7 @@
    <div class='ocr_carea' id='block_1_1' title="bbox 357 899 3676 5950">
     <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 838 899 4521 1311">
      <span class='ocr_line' id='line_1_1' title="bbox 838 899 3676 1056; baseline 0.008 -18; x_size 170.84995; x_descenders 41.849953; x_ascenders 43">
-      <span class='ocrx_word' id='word_1_1' title='bbox 838 977 1072 1038; x_wconf 96'>You&#39;re</span>
+      <span class='ocrx_word' id='word_1_1' title='bbox 838 977 1072 1038; x_wconf 96'>You're</span>
       <span class='ocrx_word' id='word_1_2' title='bbox 1102 975 1316 1056; x_wconf 90'>going</span>
       <span class='ocrx_word' id='word_1_3' title='bbox 1351 993 1584 1037; x_wconf 90'>across</span>
       <span class='ocrx_word' id='word_1_4' title='bbox 1613 973 1734 1037; x_wconf 95'>the</span>

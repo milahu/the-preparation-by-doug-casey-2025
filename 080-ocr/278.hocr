@@ -110,7 +110,7 @@
       <span class='ocrx_word' id='word_1_55' title='bbox 2786 1360 2820 1414; x_wconf 96'>2</span>
       <span class='ocrx_word' id='word_1_56' title='bbox 3032 1358 3312 1431; x_wconf 92'>Duelling</span>
       <span class='ocrx_word' id='word_1_57' title='bbox 3345 1358 3606 1432; x_wconf 90'>insights</span>
-      <span class='ocrx_word' id='word_1_58' title='bbox 3632 1361 3674 1406; x_wconf 81'>t&#39;</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 3632 1361 3674 1406; x_wconf 81'>t'</span>
       <span class='ocrx_word' id='word_1_59' title='bbox 3704 1366 4107 1431; x_wconf 94'>competitive</span>
       <span class='ocrx_word' id='word_1_60' title='bbox 4135 1359 4306 1432; x_wconf 96'>edge</span>
      </span>
@@ -261,7 +261,7 @@
       <span class='ocrx_word' id='word_1_160' title='bbox 2418 3008 2607 3061; x_wconf 96'>Mann</span>
       <span class='ocrx_word' id='word_1_161' title='bbox 2792 3006 2866 3060; x_wconf 96'>11</span>
       <span class='ocrx_word' id='word_1_162' title='bbox 3083 2969 3404 3009; x_wconf 90'>olumbian</span>
-      <span class='ocrx_word' id='word_1_163' title='bbox 3473 2969 3805 3026; x_wconf 77'>Exchange&#39;s</span>
+      <span class='ocrx_word' id='word_1_163' title='bbox 3473 2969 3805 3026; x_wconf 77'>Exchange's</span>
       <span class='ocrx_word' id='word_1_164' title='bbox 3833 2952 4267 3010; x_wconf 92'>secondorder</span>
      </span>
      <span class='ocr_line' id='line_1_27' title="bbox 3034 3055 3257 3113; baseline 0.006 -1; x_size 75.356033; x_descenders 17.558441; x_ascenders 18.115">
@@ -298,7 +298,7 @@
       <span class='ocrx_word' id='word_1_183' title='bbox 866 3285 987 3338; x_wconf 96'>B47</span>
       <span class='ocrx_word' id='word_1_184' title='bbox 1149 3284 1322 3339; x_wconf 96'>Scott</span>
       <span class='ocrx_word' id='word_1_185' title='bbox 1347 3282 1470 3339; x_wconf 92'>and</span>
-      <span class='ocrx_word' id='word_1_186' title='bbox 1500 3281 1917 3338; x_wconf 37'>Amundsen&#39;’s</span>
+      <span class='ocrx_word' id='word_1_186' title='bbox 1500 3281 1917 3338; x_wconf 37'>Amundsen'’s</span>
       <span class='ocrx_word' id='word_1_187' title='bbox 2793 3284 2927 3338; x_wconf 96'>12.5</span>
      </span>
     </p>
@@ -408,7 +408,7 @@
      <span class='ocr_line' id='line_1_42' title="bbox 869 4543 4128 4617; baseline -0.001 -13; x_size 73; x_descenders 16; x_ascenders 18">
       <span class='ocrx_word' id='word_1_249' title='bbox 869 4550 990 4605; x_wconf 95'>B51</span>
       <span class='ocrx_word' id='word_1_250' title='bbox 1152 4550 1290 4604; x_wconf 96'>One</span>
-      <span class='ocrx_word' id='word_1_251' title='bbox 1321 4551 1516 4604; x_wconf 65'>Man&#39;s</span>
+      <span class='ocrx_word' id='word_1_251' title='bbox 1321 4551 1516 4604; x_wconf 65'>Man's</span>
       <span class='ocrx_word' id='word_1_252' title='bbox 1542 4546 1918 4603; x_wconf 96'>Wilderness</span>
       <span class='ocrx_word' id='word_1_253' title='bbox 2794 4548 2830 4602; x_wconf 95'>8</span>
       <span class='ocrx_word' id='word_1_254' title='bbox 3040 4545 3349 4617; x_wconf 96'>Blueprint</span>

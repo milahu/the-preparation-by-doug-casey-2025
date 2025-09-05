@@ -46,7 +46,7 @@
 
     <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 1247 1722 3967 2509">
      <span class='ocr_line' id='line_1_3' title="bbox 1247 1722 3815 1857; baseline -0.003 -31; x_size 61; x_descenders 13; x_ascenders 11">
-      <span class='ocrx_word' id='word_1_23' title='bbox 1247 1725 1455 1825; x_wconf 93'>He&#39;s</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1247 1725 1455 1825; x_wconf 93'>He's</span>
       <span class='ocrx_word' id='word_1_24' title='bbox 1513 1722 1976 1825; x_wconf 13'>traveled</span>
       <span class='ocrx_word' id='word_1_26' title='bbox 2022 1737 2131 1825; x_wconf 34'>to</span>
       <span class='ocrx_word' id='word_1_27' title='bbox 2193 1778 2396 1824; x_wconf 71'>over</span>

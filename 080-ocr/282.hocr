@@ -125,7 +125,7 @@
       <span class='ocrx_word' id='word_1_82' title='bbox 2638 2265 2720 2323; x_wconf 46'>13</span>
       <span class='ocrx_word' id='word_1_83' title='bbox 2901 2263 3251 2323; x_wconf 96'>Industrial</span>
       <span class='ocrx_word' id='word_1_84' title='bbox 3284 2282 3522 2324; x_wconf 92'>excess</span>
-      <span class='ocrx_word' id='word_1_85' title='bbox 3551 2266 3598 2315; x_wconf 77'>t&#39;</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 3551 2266 3598 2315; x_wconf 77'>t'</span>
       <span class='ocrx_word' id='word_1_86' title='bbox 3633 2263 3881 2324; x_wconf 96'>reform</span>
       <span class='ocrx_word' id='word_1_87' title='bbox 3914 2264 4199 2346; x_wconf 96'>catalyst</span>
      </span>
@@ -247,7 +247,7 @@
       <span class='ocrx_word' id='word_1_178' title='bbox 1972 3938 2224 4001; x_wconf 96'>Robert</span>
       <span class='ocrx_word' id='word_1_179' title='bbox 2256 3939 2559 4001; x_wconf 94'>Heinlein</span>
       <span class='ocrx_word' id='word_1_180' title='bbox 2638 3941 2678 4001; x_wconf 86'>8</span>
-      <span class='ocrx_word' id='word_1_181' title='bbox 2909 3941 3133 4001; x_wconf 83'>Hero&#39;s</span>
+      <span class='ocrx_word' id='word_1_181' title='bbox 2909 3941 3133 4001; x_wconf 83'>Hero's</span>
       <span class='ocrx_word' id='word_1_182' title='bbox 3163 3947 3371 4019; x_wconf 96'>quest</span>
       <span class='ocrx_word' id='word_1_183' title='bbox 3398 3938 3556 4001; x_wconf 96'>with</span>
       <span class='ocrx_word' id='word_1_184' title='bbox 3591 3938 3972 4001; x_wconf 96'>libertarian</span>
@@ -290,7 +290,7 @@
       <span class='ocrx_word' id='word_1_213' title='bbox 4409 4378 4518 4475; x_wconf 29'>BB</span>
      </span>
      <span class='ocr_line' id='line_1_33' title="bbox 1188 4569 2279 4689; baseline 0.011 -54; x_size 81.544273; x_descenders 19.544275; x_ascenders 19">
-      <span class='ocrx_word' id='word_1_214' title='bbox 1188 4569 1625 4659; x_wconf 64'>Hitchhiker&#39;s</span>
+      <span class='ocrx_word' id='word_1_214' title='bbox 1188 4569 1625 4659; x_wconf 64'>Hitchhiker's</span>
       <span class='ocrx_word' id='word_1_215' title='bbox 1973 4627 2279 4689; x_wconf 69'>Doualas</span>
       <span class='ocrx_word' id='word_1_216' title='bbox 4410 4664 4518 4672; x_wconf 31'>sn</span>
      </span>
@@ -317,7 +317,7 @@
      </span>
      <span class='ocr_line' id='line_1_37' title="bbox 903 4964 4518 5093; baseline -0.001 -53; x_size 94; x_descenders 22; x_ascenders 29">
       <span class='ocrx_word' id='word_1_232' title='bbox 903 4980 1065 5041; x_wconf 90'>B119</span>
-      <span class='ocrx_word' id='word_1_233' title='bbox 1189 4982 1519 5059; x_wconf 36'>Dragon&#39;s</span>
+      <span class='ocrx_word' id='word_1_233' title='bbox 1189 4982 1519 5059; x_wconf 36'>Dragon's</span>
       <span class='ocrx_word' id='word_1_234' title='bbox 1554 4981 1686 5059; x_wconf 95'>Egg</span>
       <span class='ocrx_word' id='word_1_235' title='bbox 1974 4976 2225 5039; x_wconf 96'>Robert</span>
       <span class='ocrx_word' id='word_1_236' title='bbox 2258 4976 2559 5039; x_wconf 91'>Forward</span>

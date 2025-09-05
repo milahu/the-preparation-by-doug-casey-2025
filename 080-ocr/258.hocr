@@ -95,7 +95,7 @@
      </span>
      <span class='ocr_line' id='line_1_12' title="bbox 3774 1673 4234 1722; baseline -0.002 -11; x_size 49.555168; x_descenders 12.555169; x_ascenders 9">
       <span class='ocrx_word' id='word_1_60' title='bbox 3774 1702 3786 1711; x_wconf 0'>.</span>
-      <span class='ocrx_word' id='word_1_61' title='bbox 4039 1682 4051 1704; x_wconf 0'>&#39;</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 4039 1682 4051 1704; x_wconf 0'>'</span>
       <span class='ocrx_word' id='word_1_62' title='bbox 4212 1673 4234 1722; x_wconf 71'>3</span>
      </span>
      <span class='ocr_line' id='line_1_13' title="bbox 3774 1634 4233 1789; baseline -0.017 -1; x_size 91.419945; x_descenders 22.419945; x_ascenders 19">
@@ -220,7 +220,7 @@
      </span>
      <span class='ocr_line' id='line_1_29' title="bbox 1126 4023 4236 4162; baseline -0.001 -22; x_size 81; x_descenders 19; x_ascenders 18">
       <span class='ocrx_word' id='word_1_151' title='bbox 1126 4078 1472 4159; x_wconf 96'>Exploring</span>
-      <span class='ocrx_word' id='word_1_152' title='bbox 1510 4078 1827 4159; x_wconf 85'>History&#39;s</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 1510 4078 1827 4159; x_wconf 85'>History's</span>
       <span class='ocrx_word' id='word_1_153' title='bbox 2865 4073 3165 4162; x_wconf 96'>Courses</span>
       <span class='ocrx_word' id='word_1_154' title='bbox 3824 4079 3918 4134; x_wconf 61'>Coy</span>
       <span class='ocrx_word' id='word_1_155' title='bbox 3963 4023 4236 4162; x_wconf 14'>Bare</span>

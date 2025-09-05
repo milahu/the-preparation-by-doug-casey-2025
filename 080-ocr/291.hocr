@@ -67,7 +67,7 @@
      <span class='ocr_line' id='line_1_6' title="bbox 1480 1241 2519 1315; baseline -0.002 -16; x_size 75; x_descenders 18; x_ascenders 17">
       <span class='ocrx_word' id='word_1_43' title='bbox 1480 1245 1532 1298; x_wconf 96'>A</span>
       <span class='ocrx_word' id='word_1_44' title='bbox 1561 1241 1988 1299; x_wconf 96'>Midsummer</span>
-      <span class='ocrx_word' id='word_1_45' title='bbox 2015 1241 2259 1315; x_wconf 84'>Night&#39;s</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 2015 1241 2259 1315; x_wconf 84'>Night's</span>
       <span class='ocrx_word' id='word_1_46' title='bbox 2289 1244 2519 1298; x_wconf 96'>Dream</span>
      </span>
      <span class='ocr_line' id='line_1_7' title="bbox 513 1344 3490 1419; baseline -0.001 -16; x_size 69; x_descenders 12; x_ascenders 17">
@@ -255,7 +255,7 @@
       <span class='ocrx_word' id='word_1_198' title='bbox 2407 4097 2473 4208; x_wconf 92'>6</span>
      </span>
      <span class='ocr_line' id='line_1_23' title="bbox 1481 4199 2597 4273; baseline -0.001 -18; x_size 75; x_descenders 18; x_ascenders 18">
-      <span class='ocrx_word' id='word_1_199' title='bbox 1481 4203 1768 4257; x_wconf 76'>Mozart&#39;s</span>
+      <span class='ocrx_word' id='word_1_199' title='bbox 1481 4203 1768 4257; x_wconf 76'>Mozart's</span>
       <span class='ocrx_word' id='word_1_200' title='bbox 1798 4199 2150 4257; x_wconf 96'>unfinished</span>
       <span class='ocrx_word' id='word_1_201' title='bbox 2183 4207 2597 4273; x_wconf 96'>masterpiece</span>
       <span class='ocrx_word' id='word_1_202' title='bbox 3837 4218 3944 4233; x_wconf 6'>—_—</span>
@@ -300,7 +300,7 @@
       <span class='ocrx_word' id='word_1_231' title='bbox 1108 4644 1229 4699; x_wconf 95'>min</span>
      </span>
      <span class='ocr_line' id='line_1_29' title="bbox 953 4630 3942 4768; baseline -0.001 -16; x_size 75; x_descenders 18; x_ascenders 17">
-      <span class='ocrx_word' id='word_1_232' title='bbox 953 4661 975 4698; x_wconf 50'>&#39;</span>
+      <span class='ocrx_word' id='word_1_232' title='bbox 953 4661 975 4698; x_wconf 50'>'</span>
       <span class='ocrx_word' id='word_1_233' title='bbox 1176 4661 1182 4698; x_wconf 82'>|</span>
       <span class='ocrx_word' id='word_1_234' title='bbox 1474 4698 1523 4750; x_wconf 96'>A</span>
       <span class='ocrx_word' id='word_1_235' title='bbox 1550 4694 1848 4751; x_wconf 95'>dramatic</span>
@@ -351,7 +351,7 @@
       <span class='ocrx_word' id='word_1_274' title='bbox 2555 5399 2716 5453; x_wconf 95'>Faun</span>
       <span class='ocrx_word' id='word_1_275' title='bbox 2747 5396 3040 5464; x_wconf 59'>(Prelude</span>
       <span class='ocrx_word' id='word_1_276' title='bbox 3065 5414 3100 5453; x_wconf 93'>a</span>
-      <span class='ocrx_word' id='word_1_277' title='bbox 3133 5397 3544 5470; x_wconf 33'>I&#39;apres-midi</span>
+      <span class='ocrx_word' id='word_1_277' title='bbox 3133 5397 3544 5470; x_wconf 33'>I'apres-midi</span>
       <span class='ocrx_word' id='word_1_278' title='bbox 4563 5440 4617 5515; x_wconf 34'>ut</span>
      </span>
      <span class='ocr_line' id='line_1_33' title="bbox 449 5564 4617 5613; baseline 0 -14; x_size 40.392048; x_descenders 9.3920488; x_ascenders 9.5205088">

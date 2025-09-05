@@ -20,7 +20,7 @@
 
     <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 903 909 5009 1638">
      <span class='ocr_line' id='line_1_2' title="bbox 903 909 5009 1235; baseline 0.003 -11; x_size 407.32779; x_descenders 93.327782; x_ascenders 95.07222">
-      <span class='ocrx_word' id='word_1_3' title='bbox 903 909 2645 1235; x_wconf 89'>WHAT&#39;S</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 903 909 2645 1235; x_wconf 89'>WHAT'S</span>
      </span>
      <span class='ocr_line' id='line_1_3' title="bbox 934 1313 3236 1638; baseline 0.005 -10; x_size 406.03058; x_descenders 93.030563; x_ascenders 94.76944">
       <span class='ocrx_word' id='word_1_4' title='bbox 934 1313 3236 1638; x_wconf 96'>INCLUDED</span>

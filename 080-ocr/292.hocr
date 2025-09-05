@@ -61,7 +61,7 @@
       <span class='ocrx_word' id='word_1_34' title='bbox 896 1196 1043 1250; x_wconf 95'>M54</span>
       <span class='ocrx_word' id='word_1_35' title='bbox 1225 1195 1262 1249; x_wconf 95'>7</span>
       <span class='ocrx_word' id='word_1_36' title='bbox 1292 1192 1414 1248; x_wconf 95'>min</span>
-      <span class='ocrx_word' id='word_1_37' title='bbox 1866 1191 2030 1249; x_wconf 85'>L&#39;isle</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1866 1191 2030 1249; x_wconf 85'>L'isle</span>
       <span class='ocrx_word' id='word_1_38' title='bbox 2054 1194 2335 1266; x_wconf 91'>Joyeuse</span>
      </span>
      <span class='ocr_line' id='line_1_8' title="bbox 1863 1368 2477 1425; baseline -0 0; x_size 74.475861; x_descenders 17.475859; x_ascenders 18">
@@ -107,7 +107,7 @@
       <span class='ocrx_word' id='word_1_70' title='bbox 2928 1970 3364 2045; x_wconf 91'>Nibelungen)</span>
      </span>
      <span class='ocr_line' id='line_1_13' title="bbox 1865 2073 3914 2148; baseline 0.002 -18; x_size 74; x_descenders 17; x_ascenders 17">
-      <span class='ocrx_word' id='word_1_71' title='bbox 1865 2076 1979 2131; x_wconf 94'>I&#39;ve</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 1865 2076 1979 2131; x_wconf 94'>I've</span>
       <span class='ocrx_word' id='word_1_72' title='bbox 2004 2073 2290 2131; x_wconf 95'>watched</span>
       <span class='ocrx_word' id='word_1_73' title='bbox 2319 2074 2428 2131; x_wconf 95'>the</span>
       <span class='ocrx_word' id='word_1_74' title='bbox 2456 2075 2650 2131; x_wconf 96'>entire</span>

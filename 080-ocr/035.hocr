@@ -35,7 +35,7 @@
       <span class='ocrx_word' id='word_1_16' title='bbox 1420 2383 1505 2485; x_wconf 93'>is</span>
       <span class='ocrx_word' id='word_1_17' title='bbox 1545 2383 1770 2484; x_wconf 94'>that</span>
       <span class='ocrx_word' id='word_1_18' title='bbox 1816 2383 1829 2483; x_wconf 94'>|</span>
-      <span class='ocrx_word' id='word_1_19' title='bbox 1880 2382 2142 2484; x_wconf 73'>can&#39;t</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1880 2382 2142 2484; x_wconf 73'>can't</span>
       <span class='ocrx_word' id='word_1_20' title='bbox 2181 2381 2393 2483; x_wconf 96'>find</span>
       <span class='ocrx_word' id='word_1_21' title='bbox 2440 2381 2910 2511; x_wconf 95'>anybody</span>
      </span>
@@ -141,7 +141,7 @@
      </span>
      <span class='ocr_line' id='line_1_11' title="bbox 422 3881 4096 3965; baseline 0.001 -22; x_size 83; x_descenders 19; x_ascenders 20">
       <span class='ocrx_word' id='word_1_108' title='bbox 422 3888 605 3944; x_wconf 95'>want</span>
-      <span class='ocrx_word' id='word_1_109' title='bbox 633 3881 780 3944; x_wconf 61'>isn&#39;t</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 633 3881 780 3944; x_wconf 61'>isn't</span>
       <span class='ocrx_word' id='word_1_110' title='bbox 805 3881 1067 3944; x_wconf 95'>chosen</span>
       <span class='ocrx_word' id='word_1_111' title='bbox 1099 3881 1647 3964; x_wconf 96'>independently.</span>
       <span class='ocrx_word' id='word_1_112' title='bbox 1673 3882 1962 3954; x_wconf 96'>Instead,</span>
