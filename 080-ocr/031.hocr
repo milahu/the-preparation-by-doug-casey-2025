@@ -303,41 +303,15 @@
       <span class='ocrx_word' id='word_1_218' title='bbox 2626 2493 2747 2556; x_wconf 96'>the</span>
       <span class='ocrx_word' id='word_1_219' title='bbox 2775 2512 2934 2575; x_wconf 96'>way.</span>
      </span>
-     <span class='ocr_line' id='line_1_16' title="bbox 4533 5001 4586 5034; baseline 0 0; x_size 42.810322; x_descenders 9.8103228; x_ascenders 10.046596">
-      <span class='ocrx_word' id='word_1_220' title='bbox 4533 5001 4586 5034; x_wconf 28'>juve</span>
-     </span>
-     <span class='ocr_line' id='line_1_17' title="bbox 4532 5044 4587 5091; baseline 0 0; x_size 83.115227; x_descenders 19.046511; x_ascenders 19.505226">
-      <span class='ocrx_word' id='word_1_221' title='bbox 4532 5044 4587 5091; x_wconf 43'>@)</span>
-     </span>
-     <span class='ocr_line' id='line_1_18' title="bbox 4532 5098 4587 5146; baseline 0 0; x_size 83.115227; x_descenders 19.046511; x_ascenders 19.505226">
-      <span class='ocrx_word' id='word_1_222' title='bbox 4532 5098 4587 5146; x_wconf 71'>O</span>
-     </span>
-     <span class='ocr_line' id='line_1_19' title="bbox 4532 5154 4585 5184; baseline 0 0; x_size 38.918476; x_descenders 8.9184761; x_ascenders 9.1332684">
-      <span class='ocrx_word' id='word_1_223' title='bbox 4532 5154 4585 5184; x_wconf 57'>£43</span>
-     </span>
-     <span class='ocr_line' id='line_1_20' title="bbox 4531 5216 4586 5268; baseline 0 -5; x_size 83.115227; x_descenders 19.046511; x_ascenders 19.505226">
-      <span class='ocrx_word' id='word_1_224' title='bbox 4531 5216 4586 5268; x_wconf 0'>«0</span>
-     </span>
-     <span class='ocr_line' id='line_1_21' title="bbox 4531 5277 4585 5314; baseline 0 0; x_size 47.999454; x_descenders 10.999454; x_ascenders 11.264364">
-      <span class='ocrx_word' id='word_1_225' title='bbox 4531 5277 4585 5314; x_wconf 24'>I</span>
-     </span>
-     <span class='ocr_line' id='line_1_22' title="bbox 4527 5319 4588 5362; baseline 0 -19; x_size 25.94565; x_descenders 5.9456501; x_ascenders 6.0888457">
-      <span class='ocrx_word' id='word_1_226' title='bbox 4527 5319 4588 5362; x_wconf 16'>forme</span>
-     </span>
-     <span class='ocr_line' id='line_1_23' title="bbox 4530 5382 4585 5449; baseline 0 0; x_size 83.115227; x_descenders 19.046511; x_ascenders 19.505226">
-      <span class='ocrx_word' id='word_1_227' title='bbox 4530 5382 4585 5449; x_wconf 43'>A</span>
-     </span>
-     <span class='ocr_line' id='line_1_24' title="bbox 4530 5460 4585 5497; baseline 0 0; x_size 47.999454; x_descenders 10.999454; x_ascenders 11.264364">
-      <span class='ocrx_word' id='word_1_228' title='bbox 4530 5460 4585 5497; x_wconf 0'>3</span>
-     </span>
-     <span class='ocr_line' id='line_1_25' title="bbox 4530 5528 4584 5575; baseline 0 0; x_size 83.115227; x_descenders 19.046511; x_ascenders 19.505226">
-      <span class='ocrx_word' id='word_1_229' title='bbox 4530 5528 4584 5575; x_wconf 67'>O</span>
-     </span>
-     <span class='ocr_line' id='line_1_26' title="bbox 4529 5636 4583 5698; baseline 0 0; x_size 83.115227; x_descenders 19.046511; x_ascenders 19.505226">
-      <span class='ocrx_word' id='word_1_230' title='bbox 4529 5636 4583 5698; x_wconf 89'>=</span>
-     </span>
-     <span class='ocr_line' id='line_1_27' title="bbox 4528 5704 4583 5773; baseline 0 -4; x_size 83.115227; x_descenders 19.046511; x_ascenders 19.505226">
-      <span class='ocrx_word' id='word_1_231' title='bbox 4528 5704 4583 5773; x_wconf 47'>©</span>
+    </p>
+
+    <p class='ocr_par'>
+     <span class='ocr_line' id='line_1_27'>
+      <span class='ocrx_word' id='word_1_231' title='bbox 4528 5634 4586 5804; x_wconf 47'>HOW</span>
+      <span class='ocrx_word' id='word_1_229' title='bbox 4530 5528 4584 5615; x_wconf 67'>TO</span>
+      <span class='ocrx_word' id='word_1_228' title='bbox 4530 5380 4585 5497; x_wconf 0'>USE</span>
+      <span class='ocrx_word' id='word_1_226' title='bbox 4527 5212 4588 5362; x_wconf 16'>THIS</span>
+      <span class='ocrx_word' id='word_1_223' title='bbox 4532 4997 4589 5184; x_wconf 57'>BOOK</span>
      </span>
     </p>
 
