@@ -13,22 +13,31 @@
    <div class='ocr_carea' id='block_1_1' title="bbox 913 392 4506 2058">
     <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 918 64 4506 1208">
      <span class='ocr_line' id='line_1_1' title="bbox 919 392 4506 634; baseline 0 -58; x_size 231; x_descenders 52; x_ascenders 53">
-      <span class='ocrx_word' id='word_1_1' title='bbox 919 392 1702 634; x_wconf 95'>Chapter</span>
+      <span class='ocrx_word' id='word_1_1' title='bbox 919 392 1746 634; x_wconf 95'>Chapter</span>
       <span class='ocrx_word' id='word_1_2' title='bbox 1802 454 1924 577; x_wconf 95'>2</span>
-     </span>
-     <span class='ocr_line' id='line_1_2' title="bbox 918 891 1768 1208; baseline 0.005 -4; x_size 404.65192; x_descenders 91.651932; x_ascenders 93.381218">
-      <span class='ocrx_word' id='word_1_3' title='bbox 918 891 1768 1208; x_wconf 95'>THE</span>
      </span>
     </p>
 
     <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 913 1296 3256 2058">
+     <span class='ocr_line' id='line_1_2' title="bbox 918 891 1768 1208; baseline 0.005 -4; x_size 404.65192; x_descenders 91.651932; x_ascenders 93.381218">
+      <span class='ocrx_word' id='word_1_3' title='bbox 918 891 1768 1208; x_wconf 95'>THE</span>
+     </span>
      <span class='ocr_line' id='line_1_3' title="bbox 913 1296 2712 1624; baseline 0.009 -16; x_size 405.94476; x_descenders 91.944748; x_ascenders 93.679565">
-      <span class='ocrx_word' id='word_1_4' title='bbox 913 1296 2712 1624; x_wconf 93'>WRONG</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 907 1290 2706 1618; x_wconf 93'>WRONG</span>
      </span>
      <span class='ocr_line' id='line_1_4' title="bbox 923 1698 3256 2058; baseline -0.013 0; x_size 405.94476; x_descenders 91.944748; x_ascenders 93.679565">
       <span class='ocrx_word' id='word_1_5' title='bbox 923 1698 3256 2058; x_wconf 96'>QUESTION</span>
      </span>
     </p>
+
+    <p class='ocr_par'>
+     <span class='ocr_line'>
+      <span class='ocrx_word' id='word_3hbFPDNP_1_1' title='bbox 893 5595 1035 5680'>BY</span>
+      <span class='ocrx_word' id='word_3hbFPDNP_1_2' title='bbox 1092 5596 1435 5680'>MATT</span>
+      <span class='ocrx_word' id='word_3hbFPDNP_1_3' title='bbox 1490 5596 1885 5680'>SMITH</span>
+     </span>
+    </p>
+
    </div>
   </div>
  </body>
