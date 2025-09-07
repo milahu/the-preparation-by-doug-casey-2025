@@ -332,6 +332,11 @@
       <span class='ocrx_word' id='word_1_277' title='bbox 3989 3237 4268 3322; x_wconf 96'>shifting</span>
       <span class='ocrx_word' id='word_1_278' title='bbox 4301 3239 4496 3301; x_wconf 96'>sand.</span>
      </span>
+     <!-- general problem: how to recruit succesors? biological children are often the  worst choice!
+      generally: successful people should not have children
+      because the children (in most cases) get spoiled by the success of their parents.
+      aka: "the buddha problem" (buddha's father was a king, buddha decided to become a "dropout")
+     -->
      <span class='ocr_line' id='line_1_22' title="bbox 888 3460 4554 3543; baseline 0.002 -21; x_size 82; x_descenders 19; x_ascenders 20">
       <span class='ocrx_word' id='word_1_279' title='bbox 888 3464 1060 3523; x_wconf 95'>Now</span>
       <span class='ocrx_word' id='word_1_280' title='bbox 1090 3460 1411 3523; x_wconf 95'>consider</span>
@@ -509,7 +514,6 @@
 
     <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 389 5158 4552 5281">
      <span class='ocr_line' id='line_1_34' title="bbox 389 5158 4552 5281; baseline 0 -59; x_size 84; x_descenders 21; x_ascenders 19">
-      <span class='ocrx_word' id='word_1_428' title='bbox 389 5184 440 5281; x_wconf 72'>z</span>
       <span class='ocrx_word' id='word_1_429' title='bbox 883 5158 1166 5241; x_wconf 96'>fleeting</span>
       <span class='ocrx_word' id='word_1_430' title='bbox 1197 5160 1549 5222; x_wconf 96'>emotions</span>
       <span class='ocrx_word' id='word_1_431' title='bbox 1577 5159 1711 5222; x_wconf 96'>and</span>
@@ -528,7 +532,6 @@
 
     <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 390 5273 1969 5381">
      <span class='ocr_line' id='line_1_35' title="bbox 390 5273 1969 5381; baseline 0.001 -46; x_size 83; x_descenders 20; x_ascenders 20">
-      <span class='ocrx_word' id='word_1_442' title='bbox 390 5288 443 5381; x_wconf 9'>7</span>
       <span class='ocrx_word' id='word_1_443' title='bbox 883 5274 1003 5336; x_wconf 96'>the</span>
       <span class='ocrx_word' id='word_1_444' title='bbox 1036 5274 1274 5356; x_wconf 96'>legacy</span>
       <span class='ocrx_word' id='word_1_445' title='bbox 1300 5292 1435 5355; x_wconf 96'>you</span>
@@ -537,40 +540,10 @@
      </span>
     </p>
 
-    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 390 5385 443 5471">
-     <span class='ocr_line' id='line_1_36' title="bbox 390 5385 443 5471; baseline 0 0; x_size 111.94981; x_descenders 25.949816; x_ascenders 26.500177">
-      <span class='ocrx_word' id='word_1_448' title='bbox 390 5385 443 5471; x_wconf 71'>&lt;</span>
-     </span>
-    </p>
-
-    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 390 5472 443 5540">
-     <span class='ocr_line' id='line_1_37' title="bbox 390 5472 443 5540; baseline 0 0; x_size 83.322823; x_descenders 19.314117; x_ascenders 19.723743">
-      <span class='ocrx_word' id='word_1_449' title='bbox 390 5472 443 5540; x_wconf 20'>iv</span>
-     </span>
-    </p>
-
-    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 391 5546 443 5582">
-     <span class='ocr_line' id='line_1_38' title="bbox 391 5546 443 5582; baseline 0 0; x_size 46.862713; x_descenders 10.862713; x_ascenders 11.093098">
-      <span class='ocrx_word' id='word_1_450' title='bbox 391 5546 443 5582; x_wconf 3'>oY</span>
-     </span>
-    </p>
-
-    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 391 5593 444 5624">
-     <span class='ocr_line' id='line_1_39' title="bbox 391 5593 444 5624; baseline 0 0; x_size 40.354004; x_descenders 9.354003; x_ascenders 9.5523891">
-      <span class='ocrx_word' id='word_1_451' title='bbox 391 5593 444 5624; x_wconf 38'>2.</span>
-     </span>
-    </p>
-
-    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 391 5654 444 5732">
-     <span class='ocr_line' id='line_1_40' title="bbox 391 5654 444 5732; baseline 0 0; x_size 101.53588; x_descenders 23.535879; x_ascenders 24.035044">
-      <span class='ocrx_word' id='word_1_452' title='bbox 391 5654 444 5732; x_wconf 70'>T</span>
-     </span>
-    </p>
-
     <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 387 5738 4551 5781">
      <span class='ocr_line' id='line_1_41' title="bbox 387 5738 4551 5781; baseline 0.004 -20.016; x_size 24.733099; x_descenders 5.7330985; x_ascenders 5.8546901">
-      <span class='ocrx_word' id='word_1_453' title='bbox 387 5738 448 5781; x_wconf 32'>fron</span>
-      <span class='ocrx_word' id='word_1_454' title='bbox 4547 5775 4551 5778; x_wconf 60'>.</span>
+      <span class='ocrx_word' id='word_1_453' title='bbox 387 5649 448 5781; x_wconf 32'>THE</span>
+      <span class='ocrx_word' id='word_1_450' title='bbox 391 5177 443 5628; x_wconf 3'>PREPARATION</span>
      </span>
     </p>
 
