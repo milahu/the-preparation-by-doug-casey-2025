@@ -40,7 +40,7 @@
       <span class='ocrx_word' id='word_1_21' title='bbox 918 765 1199 838; x_wconf 95'>control,</span>
       <span class='ocrx_word' id='word_1_22' title='bbox 1231 784 1322 828; x_wconf 96'>no</span>
       <span class='ocrx_word' id='word_1_23' title='bbox 1354 773 1602 828; x_wconf 96'>matter</span>
-      <span class='ocrx_word' id='word_1_24' title='bbox 1628 765 1785 828; x_wconf 96'>how</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 870 460 1785 828; x_wconf 96'>how</span>
       <span class='ocrx_word' id='word_1_25' title='bbox 1813 763 2030 827; x_wconf 96'>unfair</span>
       <span class='ocrx_word' id='word_1_26' title='bbox 2057 765 2100 827; x_wconf 96'>it</span>
       <span class='ocrx_word' id='word_1_27' title='bbox 2130 783 2285 845; x_wconf 96'>may</span>
@@ -49,6 +49,7 @@
       <span class='ocrx_word' id='word_1_30' title='bbox 2637 772 2760 826; x_wconf 96'>not</span>
       <span class='ocrx_word' id='word_1_31' title='bbox 2783 782 2955 845; x_wconf 96'>your</span>
       <span class='ocrx_word' id='word_1_32' title='bbox 2980 782 3298 827; x_wconf 96'>concern.</span>
+      <!-- TODO gelassenheits-gebet -->
       <span class='ocrx_word' id='word_1_33' title='bbox 3331 762 3506 827; x_wconf 84'>Life's</span>
       <span class='ocrx_word' id='word_1_34' title='bbox 3535 763 3932 846; x_wconf 95'>challenges</span>
       <span class='ocrx_word' id='word_1_35' title='bbox 3960 764 4095 828; x_wconf 96'>and</span>
@@ -67,6 +68,10 @@
       <span class='ocrx_word' id='word_1_46' title='bbox 2619 886 2856 941; x_wconf 96'>meant</span>
       <span class='ocrx_word' id='word_1_47' title='bbox 2884 886 2959 941; x_wconf 96'>to</span>
       <span class='ocrx_word' id='word_1_48' title='bbox 2993 878 3099 941; x_wconf 96'>be.</span>
+      <!-- problem: this is primarily decided by your inborn personality type.
+       if you are a "born anti-stoic" then you can never become a true stoic,
+       just a fake stoic, who is "stoic" when its easy, but who falls back to his "anti-stoic" nature when its hard.
+      -->
       <span class='ocrx_word' id='word_1_49' title='bbox 3134 878 3457 942; x_wconf 96'>Embrace</span>
       <span class='ocrx_word' id='word_1_50' title='bbox 3485 882 3698 942; x_wconf 91'>Amor</span>
       <span class='ocrx_word' id='word_1_51' title='bbox 3729 879 4100 943; x_wconf 90'>Fati—love</span>
@@ -314,70 +319,17 @@
      <span class='ocr_line' id='line_1_24' title="bbox 664 4020 4588 4200; baseline 0.001 -80; x_size 129; x_descenders 29; x_ascenders 26">
       <span class='ocrx_word' id='word_1_254' title='bbox 664 4020 822 4121; x_wconf 95'>for</span>
       <span class='ocrx_word' id='word_1_255' title='bbox 863 4021 1321 4150; x_wconf 95'>nothing.</span>
-      <span class='ocrx_word' id='word_1_256' title='bbox 4535 4064 4588 4200; x_wconf 0'>z</span>
      </span>
      <span class='ocr_line' id='line_1_25' title="bbox 4535 4202 4588 4266; baseline 0 0; x_size 83.81221; x_descenders 19.327587; x_ascenders 19.823046">
-      <span class='ocrx_word' id='word_1_257' title='bbox 4535 4202 4588 4266; x_wconf 91'>=</span>
-     </span>
-     <span class='ocr_line' id='line_1_26' title="bbox 4534 4292 4589 4323; baseline 0 0; x_size 40.291443; x_descenders 9.2914429; x_ascenders 9.5296268">
-      <span class='ocrx_word' id='word_1_258' title='bbox 4534 4292 4589 4323; x_wconf 29'>vy</span>
-     </span>
-     <span class='ocr_line' id='line_1_27' title="bbox 4535 4328 4588 4400; baseline 0 0; x_size 93.580124; x_descenders 21.580124; x_ascenders 22.133327">
-      <span class='ocrx_word' id='word_1_259' title='bbox 4535 4328 4588 4400; x_wconf 10'>oi</span>
-     </span>
-     <span class='ocr_line' id='line_1_28' title="bbox 4534 4414 4588 4495; baseline 0 -1; x_size 103.97792; x_descenders 23.977917; x_ascenders 24.592587">
-      <span class='ocrx_word' id='word_1_260' title='bbox 4534 4414 4588 4495; x_wconf 0'>2</span>
-     </span>
-     <span class='ocr_line' id='line_1_29' title="bbox 4534 4497 4589 4544; baseline 0 0; x_size 83.81221; x_descenders 19.327587; x_ascenders 19.823046">
-      <span class='ocrx_word' id='word_1_261' title='bbox 4534 4497 4589 4544; x_wconf 74'>O</span>
-     </span>
-     <span class='ocr_line' id='line_1_30' title="bbox 4534 4569 4587 4673; baseline 0 -8; x_size 124.7735; x_descenders 28.7735; x_ascenders 29.511103">
-      <span class='ocrx_word' id='word_1_262' title='bbox 4534 4569 4587 4673; x_wconf 88'>&lt;</span>
-     </span>
-     <span class='ocr_line' id='line_1_31' title="bbox 4533 4674 4587 4762; baseline 0 -7; x_size 105.27764; x_descenders 24.277639; x_ascenders 24.899992">
-      <span class='ocrx_word' id='word_1_263' title='bbox 4533 4674 4587 4762; x_wconf 37'>=</span>
-     </span>
-     <span class='ocr_line' id='line_1_32' title="bbox 4533 4790 4588 4830; baseline 0 0; x_size 51.98896; x_descenders 11.988958; x_ascenders 12.296293">
-      <span class='ocrx_word' id='word_1_264' title='bbox 4533 4790 4588 4830; x_wconf 0'>2</span>
-     </span>
-     <span class='ocr_line' id='line_1_33' title="bbox 4533 4841 4587 4906; baseline 0 0; x_size 83.81221; x_descenders 19.327587; x_ascenders 19.823046">
-      <span class='ocrx_word' id='word_1_265' title='bbox 4533 4841 4587 4906; x_wconf 30'>a</span>
-     </span>
-     <span class='ocr_line' id='line_1_34' title="bbox 4529 4905 4590 4948; baseline 0 -18; x_size 27.294203; x_descenders 6.2942033; x_ascenders 6.4555535">
-      <span class='ocrx_word' id='word_1_266' title='bbox 4529 4905 4590 4948; x_wconf 17'>dooce</span>
-     </span>
-     <span class='ocr_line' id='line_1_35' title="bbox 4533 4953 4586 4993; baseline 0 0; x_size 51.98896; x_descenders 11.988958; x_ascenders 12.296293">
-      <span class='ocrx_word' id='word_1_267' title='bbox 4533 4953 4586 4993; x_wconf 42'>pri</span>
-     </span>
-     <span class='ocr_line' id='line_1_36' title="bbox 4533 5001 4586 5043; baseline 0 0; x_size 83.81221; x_descenders 19.327587; x_ascenders 19.823046">
-      <span class='ocrx_word' id='word_1_268' title='bbox 4533 5001 4586 5043; x_wconf 79'>&lt;</span>
-     </span>
-     <span class='ocr_line' id='line_1_37' title="bbox 4532 5046 4586 5111; baseline 0 -4; x_size 83.81221; x_descenders 19.327587; x_ascenders 19.823046">
-      <span class='ocrx_word' id='word_1_269' title='bbox 4532 5046 4586 5111; x_wconf 73'>=</span>
-     </span>
-     <span class='ocr_line' id='line_1_38' title="bbox 4532 5137 4586 5243; baseline 0 -1; x_size 136.47101; x_descenders 31.471014; x_ascenders 32.277767">
-      <span class='ocrx_word' id='word_1_270' title='bbox 4532 5137 4586 5243; x_wconf 54'>2</span>
-     </span>
-     <span class='ocr_line' id='line_1_39' title="bbox 4531 5252 4585 5319; baseline 0 0; x_size 83.81221; x_descenders 19.327587; x_ascenders 19.823046">
-      <span class='ocrx_word' id='word_1_271' title='bbox 4531 5252 4585 5319; x_wconf 0'>&amp;</span>
-     </span>
-     <span class='ocr_line' id='line_1_40' title="bbox 4530 5329 4585 5376; baseline 0 0; x_size 83.81221; x_descenders 19.327587; x_ascenders 19.823046">
-      <span class='ocrx_word' id='word_1_272' title='bbox 4530 5329 4585 5376; x_wconf 79'>O</span>
-     </span>
-     <span class='ocr_line' id='line_1_41' title="bbox 4530 5381 4584 5456; baseline 0 0; x_size 97.479294; x_descenders 22.479296; x_ascenders 23.05555">
-      <span class='ocrx_word' id='word_1_273' title='bbox 4530 5381 4584 5456; x_wconf 45'>x</span>
-     </span>
-     <span class='ocr_line' id='line_1_42' title="bbox 4530 5487 4584 5556; baseline 0 0; x_size 83.81221; x_descenders 19.327587; x_ascenders 19.823046">
-      <span class='ocrx_word' id='word_1_274' title='bbox 4530 5487 4584 5556; x_wconf 32'>or</span>
-     </span>
-     <span class='ocr_line' id='line_1_43' title="bbox 4529 5566 4584 5613; baseline 0 0; x_size 83.81221; x_descenders 19.327587; x_ascenders 19.823046">
-      <span class='ocrx_word' id='word_1_275' title='bbox 4529 5566 4584 5613; x_wconf 20'>OG</span>
-     </span>
-     <span class='ocr_line' id='line_1_44' title="bbox 4529 5619 4584 5656; baseline 0.002 -0.135; x_size 48.089787; x_descenders 11.089787; x_ascenders 11.374071">
-      <span class='ocrx_word' id='word_1_276' title='bbox 4529 5619 4584 5656; x_wconf 54'>2</span>
      </span>
      <span class='ocr_line' id='line_1_45' title="bbox 4528 5723 4582 5805; baseline 0 -76; x_size 83.81221; x_descenders 19.327587; x_ascenders 19.823046">
-      <span class='ocrx_word' id='word_1_277' title='bbox 4528 5723 4582 5805; x_wconf 15'>+</span>
+      <span class='ocrx_word' id='word_1_277' title='bbox 4528 5686 4582 5805; x_wconf 15'>THE</span>
+      <span class='ocrx_word' id='word_1_276' title='bbox 4529 5487 4584 5656; x_wconf 54'>CORE</span>
+      <span class='ocrx_word' id='word_1_273' title='bbox 4530 5135 4584 5456; x_wconf 45'>PROBLEM:</span>
+      <span class='ocrx_word' id='word_1_269' title='bbox 4532 4783 4586 5111; x_wconf 73'>WANTING</span>
+      <span class='ocrx_word' id='word_1_263' title='bbox 4533 4565 4587 4762; x_wconf 37'>WHAT</span>
+      <span class='ocrx_word' id='word_1_261' title='bbox 4534 4290 4589 4544; x_wconf 74'>OTHERS</span>
+      <span class='ocrx_word' id='word_1_257' title='bbox 4535 4064 4588 4266; x_wconf 91'>WANT</span>
      </span>
      <span class='ocr_line' id='line_1_46' title="bbox 4481 5932 4577 5993; baseline 0 0; x_size 83.81221; x_descenders 19.327587; x_ascenders 19.823046">
       <span class='ocrx_word' id='word_1_278' title='bbox 4481 5932 4577 5993; x_wconf 96'>47</span>
