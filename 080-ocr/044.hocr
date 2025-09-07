@@ -552,15 +552,8 @@
      </span>
     </p>
 
-    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 394 5190 449 5288">
-     <span class='ocr_line' id='line_1_33' title="bbox 394 5190 449 5288; baseline 0 -58; x_size 83.302689; x_descenders 19.574043; x_ascenders 19.575363">
-      <span class='ocrx_word' id='word_1_475' title='bbox 394 5190 449 5288; x_wconf 50'>Zz</span>
-     </span>
-    </p>
-
     <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 395 5281 4566 5388">
      <span class='ocr_line' id='line_1_34' title="bbox 395 5281 4566 5388; baseline 0.002 -45; x_size 81; x_descenders 19; x_ascenders 19">
-      <span class='ocrx_word' id='word_1_476' title='bbox 395 5294 448 5388; x_wconf 70'>=</span>
       <span class='ocrx_word' id='word_1_477' title='bbox 894 5282 1099 5345; x_wconf 96'>Much</span>
       <span class='ocrx_word' id='word_1_478' title='bbox 1132 5281 1207 5345; x_wconf 96'>of</span>
       <span class='ocrx_word' id='word_1_479' title='bbox 1231 5284 1404 5345; x_wconf 95'>stoic</span>
@@ -584,7 +577,6 @@
 
     <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 394 5392 4563 5481">
      <span class='ocr_line' id='line_1_35' title="bbox 394 5392 4563 5481; baseline 0.002 -25; x_size 81; x_descenders 19; x_ascenders 19">
-      <span class='ocrx_word' id='word_1_495' title='bbox 394 5392 448 5478; x_wconf 50'>x</span>
       <span class='ocrx_word' id='word_1_496' title='bbox 888 5395 1190 5476; x_wconf 96'>yourself</span>
       <span class='ocrx_word' id='word_1_497' title='bbox 1211 5415 1285 5458; x_wconf 96'>as</span>
       <span class='ocrx_word' id='word_1_498' title='bbox 1313 5415 1348 5458; x_wconf 96'>a</span>
@@ -604,39 +596,10 @@
      </span>
     </p>
 
-    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 395 5479 448 5509">
-     <span class='ocr_line' id='line_1_36' title="bbox 395 5479 448 5509; baseline 0 0; x_size 39.214401; x_descenders 9.2144003; x_ascenders 9.2150211">
-      <span class='ocrx_word' id='word_1_512' title='bbox 395 5479 448 5509; x_wconf 55'>£5</span>
-     </span>
-    </p>
-
-    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 395 5520 448 5590">
-     <span class='ocr_line' id='line_1_37' title="bbox 395 5520 448 5590; baseline 0 0; x_size 83.302689; x_descenders 19.574043; x_ascenders 19.575363">
-      <span class='ocrx_word' id='word_1_513' title='bbox 395 5520 448 5590; x_wconf 34'>ox</span>
-     </span>
-    </p>
-
-    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 395 5601 448 5631">
-     <span class='ocr_line' id='line_1_38' title="bbox 395 5601 448 5631; baseline 0 0; x_size 39.214401; x_descenders 9.2144003; x_ascenders 9.2150211">
-      <span class='ocrx_word' id='word_1_514' title='bbox 395 5601 448 5631; x_wconf 48'>£3.</span>
-     </span>
-    </p>
-
-    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 395 5661 448 5688">
-     <span class='ocr_line' id='line_1_39' title="bbox 395 5661 448 5688; baseline 0 0; x_size 35.292961; x_descenders 8.2929611; x_ascenders 8.293519">
-      <span class='ocrx_word' id='word_1_515' title='bbox 395 5661 448 5688; x_wconf 0'>S:</span>
-     </span>
-    </p>
-
-    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 395 5702 448 5739">
-     <span class='ocr_line' id='line_1_40' title="bbox 395 5702 448 5739; baseline 0 0; x_size 48.364426; x_descenders 11.364428; x_ascenders 11.365193">
-      <span class='ocrx_word' id='word_1_516' title='bbox 395 5702 448 5739; x_wconf 56'>I</span>
-     </span>
-    </p>
-
     <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 391 5744 452 5787">
      <span class='ocr_line' id='line_1_41' title="bbox 391 5744 452 5787; baseline 0 -19; x_size 26.142933; x_descenders 6.1429338; x_ascenders 6.1433477">
-      <span class='ocrx_word' id='word_1_517' title='bbox 391 5744 452 5787; x_wconf 47'>fron</span>
+      <span class='ocrx_word' id='word_1_517' title='bbox 391 5654 452 5787; x_wconf 47'>THE</span>
+      <span class='ocrx_word' id='word_1_514' title='bbox 395 5184 448 5631; x_wconf 48'>PREPARATION</span>
      </span>
     </p>
 
