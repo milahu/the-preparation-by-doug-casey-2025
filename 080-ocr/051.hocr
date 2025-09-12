@@ -434,24 +434,14 @@
       <span class='ocrx_word' id='word_1_367' title='bbox 2554 4407 2629 4471; x_wconf 96'>of</span>
       <span class='ocrx_word' id='word_1_368' title='bbox 2655 4409 3119 4490; x_wconf 96'>opportunity.</span>
      </span>
-     <span class='ocr_line' id='line_1_28' title="bbox 4534 4551 4588 4613; baseline 0 -35; x_size 83.652359; x_descenders 19.59276; x_ascenders 19.645012">
-      <span class='ocrx_word' id='word_1_369' title='bbox 4534 4551 4588 4613; x_wconf 62'>”</span>
-     </span>
-     <span class='ocr_line' id='line_1_29' title="bbox 661 5289 4587 5419; baseline -0.001 -54; x_size 83.652359; x_descenders 19.59276; x_ascenders 19.645012">
-      <span class='ocrx_word' id='word_1_370' title='bbox 661 5290 4100 5367; x_wconf 6'>LL</span>
-      <span class='ocrx_word' id='word_1_371' title='bbox 4533 5289 4587 5419; x_wconf 36'>:</span>
-     </span>
-     <span class='ocr_line' id='line_1_30' title="bbox 4533 5424 4587 5509; baseline 0 0; x_size 110.99742; x_descenders 25.997425; x_ascenders 26.066755">
-      <span class='ocrx_word' id='word_1_372' title='bbox 4533 5424 4587 5509; x_wconf 37'>&lt;</span>
-     </span>
-     <span class='ocr_line' id='line_1_31' title="bbox 4532 5535 4587 5620; baseline 0 -15; x_size 83.652359; x_descenders 19.59276; x_ascenders 19.645012">
-      <span class='ocrx_word' id='word_1_373' title='bbox 4532 5535 4587 5620; x_wconf 37'>2</span>
-     </span>
-     <span class='ocr_line' id='line_1_32' title="bbox 4532 5644 4587 5758; baseline 0 0; x_size 148.86713; x_descenders 34.867134; x_ascenders 34.960121">
-      <span class='ocrx_word' id='word_1_374' title='bbox 4532 5644 4587 5758; x_wconf 80'>3</span>
-     </span>
      <span class='ocr_line' id='line_1_33' title="bbox 4533 5770 4586 5807; baseline 0 0; x_size 48.316528; x_descenders 11.316526; x_ascenders 11.346705">
-      <span class='ocrx_word' id='word_1_375' title='bbox 4533 5770 4586 5807; x_wconf 11'>i&quot;</span>
+      <span class='ocrx_word' id='word_1_375' title='bbox 4533 5641 4586 5807; x_wconf 11'>HOW</span>
+      <span class='ocrx_word' id='word_1_373' title='bbox 4532 5535 4587 5620; x_wconf 37'>TO</span>
+      <span class='ocrx_word' id='word_1_372' title='bbox 4533 5183 4587 5509; x_wconf 37'>ACTUALLY</span>
+      <span class='ocrx_word' id='word_1_371' title='bbox 4533 5045 4587 5162; x_wconf 36'>GET</span>
+      <span class='ocrx_word' id='word_1_371a' title='bbox 4533 4791 4587 5020; x_wconf 36'>AHEAD</span>
+      <span class='ocrx_word' id='word_1_371b' title='bbox 4533 4699 4587 4766; x_wconf 36'>IN</span>
+      <span class='ocrx_word' id='word_1_369' title='bbox 4534 4551 4588 4665; x_wconf 62'>LIFE</span>
      </span>
      <span class='ocr_line' id='line_1_34' title="bbox 4491 5938 4580 6002; baseline -0.011 0; x_size 83.652359; x_descenders 19.59276; x_ascenders 19.645012">
       <span class='ocrx_word' id='word_1_376' title='bbox 4491 5938 4580 6002; x_wconf 95'>51</span>
