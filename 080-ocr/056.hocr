@@ -13,8 +13,8 @@
    <div class='ocr_carea' id='block_1_1' title="bbox 922 398 3331 2837">
     <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 931 398 1935 631">
      <span class='ocr_line' id='line_1_1' title="bbox 931 398 1935 631; baseline 0.002 -54; x_size 231; x_descenders 53; x_ascenders 53">
-      <span class='ocrx_word' id='word_1_1' title='bbox 931 398 1935 631; x_wconf 96'>Chapter</span>
-      <span class='ocrx_word' id='word_1_2' title='bbox 1814 394 1936 636; x_wconf 80'>5</span>
+      <span class='ocrx_word' id='word_1_1' title='bbox 931 398 1749 631; x_wconf 96'>Chapter</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1840 394 1936 636; x_wconf 80'>5</span>
      </span>
     </p>
 
