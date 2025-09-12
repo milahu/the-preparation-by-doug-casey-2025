@@ -372,6 +372,9 @@
       <span class='ocrx_word' id='word_1_311' title='bbox 1937 3693 2251 3766; x_wconf 96'>decisive,</span>
       <span class='ocrx_word' id='word_1_312' title='bbox 2287 3694 2450 3757; x_wconf 96'>bold</span>
       <span class='ocrx_word' id='word_1_313' title='bbox 2484 3696 2731 3758; x_wconf 96'>action.</span>
+      <!-- no, your greatest asset are smart parents, because no one else will care about you.
+       with stupid parents, you are fucked right from the start (junkfood, vaccines, TV, ...) and forever trapped in stupidity.
+      -->
      </span>
      <span class='ocr_line' id='line_1_25' title="bbox 874 4007 2277 4099; baseline 0.002 -5; x_size 112.2604; x_descenders 26.260401; x_ascenders 26.421566">
       <span class='ocrx_word' id='word_1_314' title='bbox 874 4007 1221 4097; x_wconf 96'>YOUR</span>
@@ -497,7 +500,6 @@
 
     <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 379 5162 3177 5283">
      <span class='ocr_line' id='line_1_33' title="bbox 379 5162 3177 5283; baseline 0.001 -59; x_size 82; x_descenders 19; x_ascenders 19">
-      <span class='ocrx_word' id='word_1_418' title='bbox 379 5185 430 5283; x_wconf 50'>z</span>
       <span class='ocrx_word' id='word_1_419' title='bbox 876 5181 990 5225; x_wconf 96'>are</span>
       <span class='ocrx_word' id='word_1_420' title='bbox 1021 5162 1476 5226; x_wconf 96'>distractions.</span>
       <span class='ocrx_word' id='word_1_421' title='bbox 1506 5167 1627 5226; x_wconf 95'>We</span>
@@ -510,15 +512,8 @@
      </span>
     </p>
 
-    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 380 5289 433 5382">
-     <span class='ocr_line' id='line_1_34' title="bbox 380 5289 433 5382; baseline 0 0; x_size 121.39787; x_descenders 28.397875; x_ascenders 28.572159">
-      <span class='ocrx_word' id='word_1_428' title='bbox 380 5289 433 5382; x_wconf 0'>&lt;</span>
-     </span>
-    </p>
-
     <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 380 5386 4552 5473">
      <span class='ocr_line' id='line_1_35' title="bbox 380 5386 4552 5473; baseline 0.001 -22; x_size 81; x_descenders 19; x_ascenders 19">
-      <span class='ocrx_word' id='word_1_429' title='bbox 380 5386 432 5473; x_wconf 45'>=</span>
       <span class='ocrx_word' id='word_1_430' title='bbox 877 5392 968 5452; x_wconf 96'>So</span>
       <span class='ocrx_word' id='word_1_431' title='bbox 1003 5398 1173 5452; x_wconf 96'>start</span>
       <span class='ocrx_word' id='word_1_432' title='bbox 1207 5390 1524 5472; x_wconf 95'>showing</span>
@@ -543,7 +538,6 @@
 
     <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 376 5469 4550 5588">
      <span class='ocr_line' id='line_1_36' title="bbox 376 5469 4550 5588; baseline 0 -23.002; x_size 81; x_descenders 18; x_ascenders 19">
-      <span class='ocrx_word' id='word_1_449' title='bbox 376 5469 433 5588; x_wconf 28'>iY</span>
       <span class='ocrx_word' id='word_1_450' title='bbox 876 5501 1066 5565; x_wconf 96'>small</span>
       <span class='ocrx_word' id='word_1_451' title='bbox 1097 5521 1176 5565; x_wconf 96'>or</span>
       <span class='ocrx_word' id='word_1_452' title='bbox 1198 5502 1401 5566; x_wconf 96'>trivial</span>
@@ -565,21 +559,10 @@
      </span>
     </p>
 
-    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 380 5594 433 5625">
-     <span class='ocr_line' id='line_1_37' title="bbox 380 5594 433 5625; baseline 0 0; x_size 40.465958; x_descenders 9.4659576; x_ascenders 9.5240536">
-      <span class='ocrx_word' id='word_1_468' title='bbox 380 5594 433 5625; x_wconf 44'>£3.</span>
-     </span>
-    </p>
-
     <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 380 5656 434 5735">
      <span class='ocr_line' id='line_1_38' title="bbox 380 5656 434 5735; baseline 0 0; x_size 103.12292; x_descenders 24.122927; x_ascenders 24.270975">
-      <span class='ocrx_word' id='word_1_469' title='bbox 380 5656 434 5735; x_wconf 86'>T</span>
-     </span>
-    </p>
-
-    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 381 5743 434 5778">
-     <span class='ocr_line' id='line_1_39' title="bbox 381 5743 434 5778; baseline 0 0; x_size 45.68737; x_descenders 10.687372; x_ascenders 10.752963">
-      <span class='ocrx_word' id='word_1_470' title='bbox 381 5743 434 5778; x_wconf 38'>fro</span>
+      <span class='ocrx_word' id='word_1_469' title='bbox 380 5656 434 5781; x_wconf 86'>THE</span>
+      <span class='ocrx_word' id='word_1_449' title='bbox 376 5179 433 5627; x_wconf 28'>PREPARATION</span>
      </span>
     </p>
 
