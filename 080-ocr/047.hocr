@@ -13,7 +13,7 @@
    <div class='ocr_carea' id='block_1_1' title="bbox 418 390 4590 5993">
     <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 418 390 4589 5993">
      <span class='ocr_line' id='line_1_1' title="bbox 424 390 2052 482; baseline -0.002 -2; x_size 114.37571; x_descenders 26.37571; x_ascenders 27.051844">
-      <span class='ocrx_word' id='word_1_1' title='bbox 424 391 957 482; x_wconf 95'>PUTTING</span>
+      <span class='ocrx_word' id='word_1_1' title='bbox 424 391 960 482; x_wconf 95'>PUTTING</span>
       <span class='ocrx_word' id='word_1_2' title='bbox 1009 392 1111 479; x_wconf 96'>IT</span>
       <span class='ocrx_word' id='word_1_3' title='bbox 1149 392 1366 479; x_wconf 96'>ALL</span>
       <span class='ocrx_word' id='word_1_4' title='bbox 1404 390 2052 481; x_wconf 96'>TOGETHER</span>
@@ -40,7 +40,7 @@
       <span class='ocrx_word' id='word_1_21' title='bbox 918 765 1199 838; x_wconf 95'>control,</span>
       <span class='ocrx_word' id='word_1_22' title='bbox 1231 784 1322 828; x_wconf 96'>no</span>
       <span class='ocrx_word' id='word_1_23' title='bbox 1354 773 1602 828; x_wconf 96'>matter</span>
-      <span class='ocrx_word' id='word_1_24' title='bbox 870 460 1785 828; x_wconf 96'>how</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 1624 758 1785 828; x_wconf 96'>how</span>
       <span class='ocrx_word' id='word_1_25' title='bbox 1813 763 2030 827; x_wconf 96'>unfair</span>
       <span class='ocrx_word' id='word_1_26' title='bbox 2057 765 2100 827; x_wconf 96'>it</span>
       <span class='ocrx_word' id='word_1_27' title='bbox 2130 783 2285 845; x_wconf 96'>may</span>
