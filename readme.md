@@ -76,6 +76,10 @@ the.preparation.by.doug.casey.2025.book.scan.600dpi.deskew.tiff
 magnet:?xt=urn:btih:3124ed9c894ed5c2161b4abb6abf445fb32c9006&dn=the.preparation.by.doug.casey.2025.book.scan.600dpi.deskew.tiff&xl=1597746730&tr=udp%3A%2F%2F45.9.60.30%3A6969%2Fannounce&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&piece_size=4194304
 ```
 
+## epub
+
+- https://annas-archive.gl/md5/b2984952c7f455b75badcece1b45bb87 - original EPUB release? high quality text, color images
+
 ## mirrors
 
 - https://github.com/milahu/the-preparation-by-doug-casey-2025
